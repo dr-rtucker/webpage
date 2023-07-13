@@ -88,4 +88,21 @@
             </div>
         </div>
     </section>
-   
+   <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var abstractToggle = document.querySelectorAll('.abstract-toggle');
+            abstractToggle.forEach(function(toggle) {
+                toggle.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    var abstract = this.parentNode.nextElementSibling;
+                    abstract.classList.toggle('show-abstract');
+                });
+            });
+        });
+    </script>
+</body>
+</html>   
