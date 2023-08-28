@@ -1,0 +1,50 @@
+﻿STATE,Region,North
+AL,East South-Central,0
+AK,Pacific,0
+AZ,Mountain,0
+AR,West South-Central,0
+CA,Pacific,1
+CO,Mountain,1
+CT,New England,1
+DE,South Atlantic,1
+FL,South Atlantic,0
+GA,South Atlantic,0
+HI,Pacific,0
+ID,Mountain,1
+IL,East North-Central,1
+IN,East North-Central,1
+IA,West North-Central,1
+KS,West North-Central,1
+KY,East South-Central,0
+LA,West South-Central,0
+ME,New England,1
+MD,South Atlantic,0
+MA,New England,1
+MI,East North-Central,1
+MN,West North-Central,1
+MS,East South-Central,0
+MO,West North-Central,1
+MT,Mountain,1
+NE,West North-Central,1
+NV,Mountain,1
+NH,New England,1
+NJ,Mid-Atlantic,1
+NM,Mountain,1
+NY,Mid-Atlantic,1
+NC,South Atlantic,0
+ND,West North-Central,1
+OH,East North-Central,1
+OK,West South-Central,0
+OR,Pacific,1
+PA,Mid-Atlantic,1
+RI,New England,1
+SC,South Atlantic,0
+SD,West North-Central,1
+TN,East South-Central,0
+TX,West South-Central,0
+UT,Mountain,1
+VT,New England,1
+VA,South Atlantic,0
+WA,Pacific,1
+WV,South Atlantic,0
+WI,East North-Central,1

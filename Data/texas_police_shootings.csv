@@ -1,0 +1,670 @@
+Incident_ID,Agency,Address,Town,County,Zipcode,Reason for Interactions,Date,Time,Gender,Age,Race,Injured,Officer_Count,Weapon
+1,Abilene PoliceDepartment,1142 Burger Street,Abilene,Taylor,796036,Emergency Call orRequest forAssistance,1/4/2016,,Male,31.0,black,Injury,2,Possessed Weapon
+10,Alvin Police Dept.,300 block GalleyWay,Freeport,Brazoria,775416,Assistance;Execution of aWarrant,9/13/2015,,Male,29.0,white,Death,3,Possessed Weapon
+100,Bexar CountySheriff's Office,1307 Sun Candle,San Antonio,Bexar,782456,Emergency Call orRequest forAssistance,2/28/2018,10:13PM,Male,37.0,white,Injury,2,Possessed Weapon
+102,BexarCountySheriff'sOffice,2100 Blk MuddyPeak,San Antonio,Bexar,782456,Emergency Call orRequest forAssistance,12/3/2017,5:39 AM,Male,17.0,hispanic,Injury,1,Possessed Weapon
+103,BexarCountySheriff'sOffice,125 Peach Lane,Schertz,Bexar,782076,Assistance,12/21/2017,10:48AM,Female,30.0,white,Death,4,No Weapon
+104,BexarCountySheriff'sOffice,125 Peach Lane,Schertz,Bexar,782076,Assistance,12/21/2017,10:48AM,Male,6.0,white,Death,4,No Weapon
+105,Big Spring PoliceDepartment,400 E. 10th,Big Spring,Howard,797206,OtherSpecify type of call:Suspicious Activity,2/8/2018,12:10 PM,Male,43.0,black,Injury,1,Possessed Weapon
+106,Big Spring PoliceDepartment,700 Blk E. 10th,Big Spring,Howard,797206,Emergency Call orRequest forAssistance,12/27/2016,1:18PM,Male,60.0,hispanic,Injury,3,Possessed Weapon
+107,Big Spring PoliceDept.,901 Runnels,Big Spring,Howard,797206,Emergency Call orRequest forAssistance,12/10/2015,,Male,43.0,hispanic,Injury,1,Possessed Weapon
+108,Bonham PoliceDept.,522 Cadillac Drive,Bonham,Fannin,754186,Traffic Stop; OtherSpecify type of call:Vehicle pursuit.,2/23/2019,8:20 PM,Male,63.0,white,Injury,1,No Weapon
+109,Bosque CountySheriff's Office,312 Somervell St.,Iredell,Bosque,766496,Emergency Call orRequest forAssistance,3/22/2016,11:09PM,Male,59.0,white,Injury,1,Possessed Weapon
+11,Amarillo PoliceDepartment,4107 Harmony,Amarillo,Randall,791076,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,4/24/2018,9:50 AM,Male,31.0,hispanic,Death,1,Possessed Weapon
+110,Brazoria CountySheriff's Office,2414 County Road90,Pearland,Brazoria,775846,Emergency Call orRequest forAssistance,12/27/2016,1:35PM,Female,71.0,white,Death,2,Possessed Weapon
+111,Brownsville PoliceDepartment,780 E. Alton GloorBlvd.,Brownsville,Cameron,785266,Emergency Call orRequest forAssistance,7/4/2018,2:20 AM,Male,38.0,hispanic,Injury,1,Possessed Weapon
+112,Brownsville PoliceDepartment,55 W. St. CharlesStreet,Brownsville,Cameron,785206,Execution of aWarrant,10/5/2017,11:57AM,Male,31.0,hispanic,Death,2,Possessed Weapon
+113,Brownsville PoliceDepartment,2137 Autumn SageDr.,Brownsville,Cameron,785206,OtherSpecify type of call:Tip on location of a stolen vehicle,12/12/2017,3:00PM,Male,20.0,hispanic,Injury,1,Possessed Weapon
+114,Brownsville PoliceDept.,151 Clara BennettDr.,Brownsville,Cameron,785266,Emergency Call orRequest forAssistance,3/1/2019,8:27 PM,Female,25.0,hispanic,Injury,2,Possessed Weapon
+117,Bryan PoliceDepartment,5386 Mallard Drive,Bryan,Brazos,778016,Emergency Call orRequest forAssistance,2/12/2017,10:33PM,Male,33.0,black,Injury,1,No Weapon
+118,Bulverde PoliceDepartment,31600 Blk HighRidge Drive,Bulverde,Comal,781636,Assistance,6/23/2016,11:46PM,Male,22.0,white,Injury,4,Possessed Weapon
+119,Burnet Police Dept.,300blk SouthMcNeil,Burnet,Burnet,786116,OtherSpecify type of call:Loud music,3/27/2019,1:40 AM,Male,25.0,white,Death,1,No Weapon
+12,Amarillo PoliceDepartment,401 SE 2nd,Amarillo,Potter,791016,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,2/14/2018,8:53 AM,Male,54.0,hispanic,Injury,3,Possessed Weapon
+120,Caldwell CountySheriff's Office,1014 South MainStreet,Lockhart,Caldwell,786446,Emergency Call orRequest forAssistance,4/1/2016,,Male,65.0,hispanic,Death,1,Possessed Weapon
+121,Calhoun CountySheriff's Dept.,1586 FM 2760,Port Lavaca,Calhoun,779796,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Barricade,9/3/2018,6:00 PM,Male,38.0,white,Death,2,Possessed Weapon
+123,Cameron CountyConstable Pct. 5,951 Falcon Blvd.,San Benito,Cameron,785866,Emergency Call orRequest forAssistance; OtherSpecify type of call:Escaped inmate from Cameron County Jail,6/8/2017,3:50 PM,Male,38.0,hispanic,Death,3,Possessed Weapon
+124,Cameron CountyConstable Precinct5,Ranch Park Rd &Maya Circle,San Benito,Cameron,785866,Emergency Call orRequest forAssistance,12/7/2018,3:00 PM,Male,21.0,hispanic,Death,2,Possessed Weapon
+125,Cameron CountySheriff's Office,5000 Block Camelia,Brownsville,Cameron,785216,"Traffic Stop, Other",1/27/2016,,Male,21.0,hispanic,Injury,2,Possessed Weapon
+126,Cameron CountySheriff's Office,2625 FlorenciaAvenue,Brownsville,Cameron,785266,Emergency Call orRequest forAssistance,4/1/2018,1:44 PM,Male,22.0,hispanic,Death,1,Possessed Weapon
+127,Cameron CountySheriff's Office,35000 block of OldAlice Road,Los Fresnos,Cameron,785666,Traffic Stop;Execution of aWarrant,7/24/2016,,Male,34.0,hispanic,Injury,1,Possessed Weapon
+128,Cameron PoliceDepartment,25th/Avenue G,Temple,Bell,765046,"OtherSpecify type of call:Armed Robbery, UUMV, Evading Arrest w/Vehicle",9/3/2016,1:35 PM,Male,27.0,hispanic,Death,2,Possessed Weapon
+129,Carrollton PoliceDepartment,1240 W. TrinityMills,Carrollton,Dallas,750066,Execution of aWarrant,10/26/2016,9:26AM,Male,25.0,black,Death,1,Possessed Weapon
+13,Amarillo PoliceDepartment,840 N. Forest,Amarillo,Potter,791066,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,9/8/2017,8:30 PM,Male,45.0,white,Death,3,Possessed Weapon
+130,Carrollton PoliceDepartment,4205 Wichita Dr.,Carrollton,Denton,750106,Hostage/Barricade/OtherEmerg SituationPeace Officer Involved Injuries or Death Report :: Page 3 of 3,3/17/2016,,Male,24.0,black,Injury,2,Possessed Weapon
+131,Carrollton PoliceDept.,1100 Block ofWalnut Street,Carrollton,Dallas,750066,Traffic Stop,2/23/2019,5:30 PM,Male,28.0,white,Death,2,Possessed Weapon
+132,Carson CountySheriff's Office,1374 US 60,Panhandle,Carson,790686,Traffic Stop,2/3/2017,3:35 AM,Male,41.0,asian,Death,2,Possessed Weapon
+133,Childress CountySheriff's,Approx. two mileswest of Quanah,,Hardeman,792526,OtherSpecify type of call:High speed pursuit during drug interdiction,8/24/2016,3:30 PM,Male,33.0,black,Injury,2,No Weapon
+134,Childress CountySheriff's Office,1300 Ave F NW,Childress,Childress,792016,Emergency Call orRequest forAssistance,3/23/2018,1:36 AM,Male,,hispanic,Death,1,Possessed Weapon
+135,Clarksville PoliceDept.,US Hwy 82 LoopEast of Hwy 37,Clarksville,Red River,754266,Emergency Call orRequest forAssistance,8/25/2015,,Male,58.0,white,Injury,1,Possessed Weapon
+136,Collin CountySheriff'sDepartment,7802 CR 95,Celina,Collin,750096,Emergency Call orRequest forAssistance,8/18/2016,6:55 AM,Male,23.0,hispanic,Injury,1,Possessed Weapon
+137,Comal CountySheriff's Dept.,421 Rambling Drive,Canyon Lake,Comal,781306,Emergency Call orRequest forAssistance; TrafficStop,11/9/2015,,Female,34.0,white,Injury,1,Possessed Weapon
+138,Comal CountySheriff's Dept.,1933 N. IH 35,New Braunfels,Comal,781306,Emergency Call orRequest for Assistance;Traffic Stop;Hostage/Barricade/OtherEmerg SituationPeace Officer Involved Injuries or Death Report :: Page 3 of 3,11/21/2015,,Male,38.0,hispanic,Injury,1,No Weapon
+139,Commerce PoliceDepartment,1000 Culver St.,Commerce,Hunt,754286,Emergency Call orRequest forAssistance,2/1/2017,8:50 PM,Male,23.0,black,Injury,2,Possessed Weapon
+14,Amarillo PoliceDepartment,601 S. Nelson,Amarillo,Potter,791046,Emergency Call orRequest forAssistance,6/27/2017,7:09 PM,Male,35.0,hispanic,Death,1,Possessed Weapon
+140,Conroe PoliceDepartment,18700 Hwy. 105West,Conroe,Montgomery,773566,OtherSpecify type of call:Shoplifting in Progress,2/8/2016,,Male,36.0,white,Injury,1,Possessed Weapon
+141,Conroe PoliceDepartment,300 Sgt. Ed.Holcomb Blvd.,Conroe,Montgomery,773166,OtherSpecify type of call:Suspcious person,1/28/2018,9:45 AM,Male,33.0,white,Death,1,Possessed Weapon
+142,Conroe PoliceDepartment,506 Hildred,Conroe,Montgomery,773036,OtherSpecify type of call:Active domestic disturbance/homicide,5/1/2017,2:47 PM,Male,25.0,white,Death,1,Possessed Weapon
+143,Copperas CovePolice Department,600 Block North17th Street,Copperas Cove,Coryell,765226,Execution of a Warrant;Hostage/Barricade/OtherEmerg SituationSpecify type of call:CTRL on your keyboard toselect more than one value)::Execution of a Warrant;Hostage/Barricade/OtherEmerg SituationSpecify type of call:,8/3/2016,4:55 PM,Male,41.0,asian,Injury,5,Possessed Weapon
+144,Corpus ChristiPolice Department,300 North ShorelineBlvd.,Corpus Christi,Nueces,784016,Emergency Call orRequest forAssistance,10/30/2016,9:48AM,Male,23.0,hispanic,Death,1,Possessed Weapon
+145,Corpus ChristiPolice Department,2314 Capitan,Corpus Christi,Nueces,784126,Emergency Call orRequest forAssistance,4/4/2018,1:35 AM,Male,34.0,hispanic,Death,2,Possessed Weapon
+146,Corpus ChristiPolice Department,2810 Minton,Corpus Chrisit,Nueces,784076,"Traffic Stop; OtherSpecify type of call:Evading Arrest with Vehicle, Resisting Arrest, and Attempted Capital Murder",10/18/2017,10:02PM,Male,55.0,black,Death,1,No Weapon
+147,Corpus ChristiPolice Department,7300 Prairie Drive,Corpus Christi,Nueces,784136,"OtherSpecify type of call:Aggravated robbery, attempted aggravated assault on a peace officer",2/1/2016,,Male,24.0,white,Injury,1,Possessed Weapon
+148,Corpus ChristiPolice Dept.,210 Torreon,Corpus Christi,Nueces,784056,"Hostage/Barricade/OtherEmerg SituationSpecify type of call:Aggravated Robbery with a weapon, gun",3/26/2019,4:29 PM,Male,23.0,hispanic,Injury,1,No Weapon
+149,Corpus ChristiPolice Dept.,5030 Concord,Corpus Christi,Nueces,784156,Emergency Call orRequest forAssistance,11/23/2015,,Male,49.0,hispanic,Death,1,Possessed Weapon
+15,Amarillo PoliceDept.,111 SE 37th,Amarillo,Randall,791106,Execution of aWarrant,1/4/2019,1:15 PM,Male,39.0,white,Death,1,Possessed Weapon
+150,Corpus ChristiPolice Dept.,6313 Saint Denis,Corpus Christi,Nueces,784146,Emergency Call orRequest forAssistance,10/30/2015,,Male,20.0,hispanic,Injury,1,Possessed Weapon
+151,Cypress-FairbanksISD Police Dept.,8727 Point Park,Houston,Harris,770956,Emergency Call orRequest forAssistance,7/20/2018,3:42 PM,Male,19.0,hispanic,Death,1,Possessed Weapon
+152,Dalhart Police Dept.,1200 S. Hwy 87,Dalhart,Dallam,790226,Execution of aWarrant,4/14/2019,1:00 PM,Male,27.0,white,Death,1,Possessed Weapon
+153,Dallas CountySheriff's Office,2800 Blk Lagow,Dallas,Dallas,752106,Execution of aWarrant,10/19/2016,6:23PM,Male,41.0,black,Injury,1,Possessed Weapon
+154,Dallas PoliceDepartment,3232 Bellville Road,Dallas,Dallas,752286,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,5/2/2018,11:30 PM,Male,68.0,black,Death,1,Possessed Weapon
+155,Dallas PoliceDepartment,4700 East SideAvenue,Dallas,Dallas,752266,OtherSpecify type of call:Suspicious person,1/18/2017,5:00 AM,Female,21.0,white,Death,2,No Weapon
+156,Dallas PoliceDepartment,2115 Hulse Blvd.,Dallas,Dallas,752036,Execution of aWarrant,2/27/2018,1:20 PM,Male,29.0,black,Death,3,Possessed Weapon
+157,Dallas PoliceDepartment,10706 EasthamStreet,Dallas,Dallas,752176,Emergency Call orRequest forAssistance,6/19/2017,5:57 PM,Male,28.0,white,Death,1,Possessed Weapon
+158,Dallas PoliceDepartment,8303 Reva Street,Dallas,Dallas,752276,OtherSpecify type of call:Searching for suspect,5/12/2017,9:58 AM,Male,46.0,hispanic,Injury,1,No Weapon
+159,Dallas PoliceDepartment,3215 ReynoldsAvenue,Dallas,Dallas,752066,OtherSpecify type of call:Active Shooter,5/1/2017,12:30 PM,Male,36.0,black,Death,1,Possessed Weapon
+160,Dallas PoliceDepartment,1300 RB Cullum,Dallas,Dallas,752156,OtherSpecify type of call:Bait Car Activation,4/17/2017,3:00 AM,Male,38.0,black,Injury,1,Possessed Weapon
+161,Dallas PoliceDepartment,2830 Webb ChapelExtension,Dallas,Dallas,752206,Emergency Call orRequest forAssistance,4/5/2017,5:59 AM,Female,25.0,hispanic,Injury,1,Possessed Weapon
+162,Dallas PoliceDepartment,3002 ClydedaleDrive #218,Dallas,Dallas,752206,Execution of aWarrant,3/30/2017,9:30 PM,Male,22.0,black,Injury,1,Possessed Weapon
+163,Dallas PoliceDepartment,414 N. KramerStreet,Dallas,Dallas,752116,Traffic Stop,8/24/2016,10:45AM,Male,36.0,hispanic,Death,1,Possessed Weapon
+164,Dallas PoliceDepartment,8008 Herb Kelleher(Love Field),,Dallas,752356,Emergency Call orRequest forAssistance,6/10/2016,1:05 PM,Male,29.0,black,Injury,1,Possessed Weapon
+165,Dallas PoliceDepartment,801 Main Street,Dallas,Dallas,752156,"OtherSpecify type of call:Ambush of officers by subject. Wounded on 7/7/16, killed by explosive on 7/8/16.",7/7/2016,10:00 PM,Male,25.0,black,Death,6,Possessed Weapon
+166,Dallas PoliceDepartment,11350 LBJ Freeway,Dallas,Dallas,752156,Emergency Call orRequest forAssistance,12/7/2016,12:53AM,Male,48.0,asian,Injury,1,Possessed Weapon
+167,Dallas PoliceDepartment,3000 Martin LutherKing Blvd.,Dallas,Dallas,752156,OtherSpecify type of call:Searching for robbery suspect,10/26/2016,5:30PM,Male,18.0,black,Injury,1,Possessed Weapon
+168,Dallas PoliceDepartment,3500 VirginiaBoulevard,Dallas,Dallas,752116,OtherSpecify type of call:Covert surveillance on an occupied stolen vehicle taken in an aggravated robbery offense.,10/19/2016,10:38AM,Male,24.0,hispanic,Death,1,Possessed Weapon
+169,Dallas PoliceDepartment,300 East BrownleeAvenue,Dallas,Dallas,752166,OtherSpecify type of call:Observed a shooting in progress,10/14/2016,7:50PM,Male,26.0,hispanic,Death,1,Possessed Weapon
+17,Amarillo PoliceDept.,3400 Thurman,Amarillo`,Randall,791096,OtherSpecify type of call:Alarm Call,8/31/2018,3:45 AM,Male,24.0,white,Injury,2,Possessed Weapon
+170,Dallas PoliceDepartment,1500 Argentia Drive,Dallas,Dallas,752246,Emergency Call orRequest forAssistance,9/20/2016,2:48 AM,Male,19.0,black,Injury,1,Possessed Weapon
+18,Amarillo PoliceDept.,3930 E. IH-40,Amarillo,Potter,791066,Execution of aWarrant,7/25/2018,8:00 PM,Male,23.0,hispanic,Death,1,Possessed Weapon
+180,Dallas Police Dept.,9519 Forest Lane,Dallas,Dallas,752436,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Family Violence,2/6/2019,3:00 PM,Male,26.0,white,Injury,2,Possessed Weapon
+181,Dallas Police Dept.,1210 South LamarStreet,Dallas,Dallas,752156,OtherSpecify type of call:Officer was off duty and returning home. The officer entered the wrong apartment and mistook the decedentas an intruder in her apartment.,9/6/2018,10:00 PM,Male,26.0,black,Death,1,No Weapon
+183,Dallas Police Dept.,3900 N. Jim MillerRoad,Dallas,Dallas,752276,Emergency Call orRequest forAssistance,8/17/2018,5:00 AM,Male,17.0,hispanic,Death,1,Possessed Weapon
+184,Dallas Police Dept.,9501 WhiteSettlement Road,Fort Worth,Tarrant,761086,Emergency Call orRequest forAssistance,7/8/2018,4:10 PM,Male,19.0,black,Injury,1,Possessed Weapon
+185,Dallas Police Dept.,9501 WhiteSettlement Road,Fort Worth,Tarrant,761086,Emergency Call orRequest forAssistance,7/8/2018,4:10 PM,Male,19.0,black,Injury,1,Possessed Weapon
+188,Dallas Police Dept.,10800 StoneCanyon Road,Dallas,Dallas,6,"OtherSpecify type of call:Officers working unrelated call when they heard gunshots, went to investigate. 2 officers involved.",9/21/2015,,Male,24.0,hispanic,Death,2,Possessed Weapon
+189,Dallas Police Dept.,2435 W. NorthwestHwy,Dallas,Dallas,752206,"OtherSpecify type of call:Off duty security job at a night club, suspect ran over this officer with vehicle",11/9/2015,,Male,29.0,hispanic,Injury,3,Possessed Weapon
+19,Amarillo PoliceDept.,212 6th Ave,Hereford,Deaf Smith,790456,Execution of aWarrant,8/1/2018,6:04 PM,Male,35.0,hispanic,Death,3,Possessed Weapon
+190,Dallas Police Dept.,4243 Polk Street,Dallas,Dallas,752246,"OtherSpecify type of call:Disturbance, Officer is employed with Department of Veterans affairs",10/30/2015,,Male,66.0,white,Injury,1,Possessed Weapon
+191,Dallas Police Dept.,9300 HavencoveDrive,Dallas,Dallas,752276,Emergency Call orRequest forAssistance,7/13/2018,4:45 AM,Male,17.0,hispanic,Death,4,Possessed Weapon
+192,Dallas Police Dept.,10666 E. NorthwestHwy,Dallas,Dallas,752186,OtherSpecify type of call:Officer On-viewed the subject shooting another person,3/22/2019,4:00 PM,Male,18.0,hispanic,Injury,1,Possessed Weapon
+197,Dilley Police Dept.,200 Block of MainStreet,Dilley,Frio,780176,OtherSpecify type of call:Report of shots fired,7/13/2018,12:45AM,Male,25.0,hispanic,Death,1,Possessed Weapon
+198,Dumas PoliceDepartment,200 Pine,Dumas,Moore,790296,OtherSpecify type of call:Officer was taking a report of a stolen vehicle,5/25/2018,3:07 AM,Male,29.0,hispanic,Death,1,Possessed Weapon
+199,Duncanville PoliceDepartment,Martin Luther Circle,Duncanville,Dallas,751166,Emergency Call orRequest forAssistance,3/20/2018,5:22 PM,Male,28.0,black,Injury,1,Possessed Weapon
+2,Alamo CommunityCollege DistrictPolice Department,1201 Kitty HawkRoad,Universal City,Bexar,781486,Emergency Call orRequest forAssistance,11/18/2016,2:25AM,Male,22.0,black,Injury,1,No Weapon
+20,Amarillo PoliceDept.,4215 Canyon Drive,Amarillo,Randall,791096,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,6/14/2016,1:21 PM,Male,54.0,other,Death,2,Possessed Weapon
+200,Duncanville PoliceDept.,600 N. Clark Rd.,Duncanville,Dallas,751166,OtherSpecify type of call:Suspicious Activity Call,4/30/2019,1:39 PM,Male,34.0,hispanic,Injury,2,No Weapon
+201,Ector County Sheriff,8500 Block W.Dunn,Odessa,Ector,797636,"Traffic Stop; OtherSpecify type of call:Deputies were in pursuit of a vehicle that disobeyed traffic laws. At the conclusion of the vehicle pursuit theoffender was non compliant with the deputies commands and resisted arrest. While the deputy tried to effectthe arrest, the offender gained control of the deputies gun. The deputy regained control of his weapon andfired a single shot into the abdomen of the offender. The offender was transported to a local hospital to betreated for wounds sustained during the shooting. The offender was charged with Aggravated Assault on aPublic Servant, Taking Weapon from a Peace Officer and Evading Arrest in a Motor Vehicle.",8/27/2016,1:07 AM,Male,22.0,hispanic,Injury,1,Possessed Weapon
+202,Ector County Sheriff,1600 Block Knox,Odessa,Ector,797636,"OtherSpecify type of call:While directing traffic in the 1600 block of Knox, the offender attempted to strike deputy with a motor vehicle.Deputy fired several rounds into the vehicle striking the offender in the hand. Offender was treated at a localhospital and charged with Aggravated Assault on a Public Servant.",12/1/2016,10:17PM,Male,35.0,hispanic,Injury,1,No Weapon
+203,Ector County Sheriff,6155 W. University,Odessa,Ector,797636,"OtherSpecify type of call:Deputies were in pursuit of a stolen vehicle operated by the offender. At the conclusion of the pursuit theoffender exited the stolen vehicle and pointed a firearm in the direction of the pursuing deputy. The deputyfired several shots, some of which struck the offender and eliminated the threat. The offender was struckmultiple times by shots fired by the deputy. The offender was transported to a local hospital and treated forwounds sustained during the shooting.",7/15/2016,12:40PM,Male,43.0,hispanic,Injury,1,Possessed Weapon
+205,Ector CountySheriff's Ofc.,5200 Block W. 40th,Odessa,Ector,797646,OtherSpecify type of call:Disturbance that led to a motor vehicle pursuit with the suspect,10/11/2015,,Male,43.0,hispanic,Death,1,Possessed Weapon
+206,Ector CountySheriff's Ofc.,7321 Kentucky,Odessa,Ector,797646,Execution of aWarrant,1/14/2019,9:45 PM,Male,33.0,white,Death,5,Possessed Weapon
+209,Edinburg PoliceDept.,2904 Pablo Street,Edinburg,Hidalgo,785396,Emergency Call orRequest forAssistance,2/6/2019,11:01 PM,Male,48.0,white,Death,3,Possessed Weapon
+21,Amarillo PoliceDept.,2101 N. Coulter,Amarillo,Potter,791246,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationPeace Officer Involved Injuries or Death Report :: Page 3 of 3,5/6/2016,,Male,23.0,white,Injury,1,Possessed Weapon
+210,Edinburg PoliceDept.,3600 Block IdaStreet,Edinburg,Hidalgo,785396,Emergency Call orRequest forAssistance,4/7/2019,12:42 AM,Male,24.0,hispanic,Injury,1,Possessed Weapon
+211,Edna PoliceDepartment,900 N. Wells Street,Edna,Jackson,779576,Emergency Call orRequest forAssistance,6/2/2016,5:00 PM,Male,27.0,white,Injury,1,Possessed Weapon
+214,El Paso PoliceDepartment,152 GlenwoodStreet,El Paso,El Paso,799056,OtherSpecify type of call:Suicidal Subject,11/5/2016,2:28 PM,Male,32.0,hispanic,Injury,1,Possessed Weapon
+215,El Paso PoliceDepartment,3820 Mountain,El Paso,El Paso,799306,Emergency Call orRequest forAssistance,11/3/2017,2:22 PM,Male,43.0,hispanic,Death,2,Possessed Weapon
+216,El Paso PoliceDepartment,5400 Pollard,El Paso,El Paso,799066,Traffic Stop,4/20/2017,12:54AM,Male,25.0,hispanic,Injury,1,Possessed Weapon
+217,El Paso PoliceDepartment,10929 Dizzy DeanPl,El Paso,El Paso,799036,Emergency Call orRequest forAssistance,5/9/2016,,Male,33.0,black,Death,2,Possessed Weapon
+218,El Paso PoliceDepartment,7149 Tierra TaosDr.,El Paos,El Paso,799126,Emergency Call orRequest forAssistance,4/17/2016,,Male,22.0,white,Death,2,No Weapon
+219,El Paso PoliceDept.,10780 Pebble Hills,El Paso,El Paso,799366,Emergency Call orRequest forAssistance,10/10/2018,12:27PM,Male,76.0,white,Death,3,Possessed Weapon
+22,Amarillo PoliceDept.,833 S Travis,Amarillo,Potter,791026,Emergency Call orRequest forAssistance,12/20/2015,,Male,31.0,hispanic,Death,2,Possessed Weapon
+220,El Paso PoliceDept.,9030 BetelApartment Complex,El Paso,El Paso,799156,"OtherSpecify type of call:Call for service, burglary of vehicle in progress",9/21/2015,,Male,21.0,hispanic,Injury,1,Possessed Weapon
+221,El Paso PoliceDept.,700 S. ZaragozaRD SB,El Paso,El Paso,799036,Traffic Stop,12/11/2015,,Male,57.0,hispanic,Injury,1,Possessed Weapon
+222,El Paso PoliceDept.,520 Huerta,El Paso,El Paso,799036,Emergency Call orRequest forAssistance,12/25/2018,8:13PM,Male,25.0,hispanic,Injury,2,Possessed Weapon
+223,El Paso PoliceDept.,2900 Trawood,El Paso,El Paso,799016,Emergency Call orRequest forAssistance; TrafficStop,1/14/2019,4:52 AM,Male,25.0,white,Death,2,Possessed Weapon
+224,Ennis PoliceDepartment,1700 NorthKaufman Street,Ennis,Ellis,751196,Emergency Call orRequest forAssistance; TrafficStop,9/5/2016,10:24 PM,Male,36.0,black,Death,1,Possessed Weapon
+226,Euless PoliceDepartment,508 Simmons Dr.,Euless,Tarrant,760406,Emergency Call orRequest forAssistance; Other,3/1/2016,,Male,22.0,hispanic,Death,1,Possessed Weapon
+227,Everman PoliceDepartment,9053 S. Race St.,Fort Worth,Tarrant,761406,Traffic Stop,2/8/2018,8:09 PM,Male,21.0,black,Injury,1,Possessed Weapon
+228,Fairfield PoliceDept.,"200 block of eastHwy 84, Eastcommerce Street",Fairfield,Freestone,758406,"Hostage/Barricade/OtherEmerg SituationSpecify type of call:domestic that started in the county, moved to the city and subject rammed victims vehicle and she wreckedout, the suspect pulled the victim out of vehicle and was threating to kill her, subject had knife at victims neck,officer advised suspect time and time again and he would not, Officer Tased subject with no response, OfficerPulled his weapon and kept telling to drop the knife and officer ended up using deadly force.",3/1/2019,2:42 PM,Male,26.0,hispanic,Death,1,Possessed Weapon
+23,Amarillo PoliceDept.,900 S Lakeside Dr,Amarillo,Polk,791076,Emergency Call orRequest forAssistance,4/1/2019,8:00 PM,Male,27.0,white,Death,1,Possessed Weapon
+230,Farmers BranchPolice Department,2800 block ValleyView Lane,Farmers Branch,Dallas,752446,Traffic Stop,12/26/2017,11:32PM,Female,38.0,hispanic,Death,1,Possessed Weapon
+231,Farmers BranchPolice Department,14300 Marsh Lane,Farmers Branch,Dallas,752446,OtherSpecify type of call:Taking subject into custody for burglary from a motor vehicle,3/13/2016,,Male,16.0,hispanic,Death,1,No Weapon
+232,Farmers BranchPolice Department,14300 Marsh Lane,Farmers Branch,Dallas,752446,OtherSpecify type of call:Taking subject into custody for burglary from a motor vehicle,3/13/2016,,Male,16.0,hispanic,Injury,1,No Weapon
+233,Fayette CountySheriff's Dept.,243 Ellinger Rd,La Grange,Fayette,789456,Execution of aWarrant,11/1/2018,5:20 PM,Male,49.0,black,Injury,1,Possessed Weapon
+234,Fayette CountySheriff's Dept.,888,FM 153,Bastrop,789576,Emergency Call orRequest forAssistance,10/21/2018,1:00PM,Male,35.0,white,Death,2,Possessed Weapon
+236,Federal Agency -Drug EnforcementAdminstration - USDOJ,6811 Water's Edge,San Antonio,Bexar,782276,OtherSpecify type of call:Surveillance/Drug Arrest Operation,5/2/2017,8:15 PM,Male,32.0,hispanic,Injury,1,Possessed Weapon
+237,Flower MoundPolice Department,9937 IH 35,Denton,Denton,762076,OtherSpecify type of call:Accidental discharge during firearms training,5/25/2016,,Male,46.0,white,Injury,1,Possessed Weapon
+238,Foard CountySheriff's Office,407 North 1st Street,Crowell,Foard,792276,Emergency Call orRequest forAssistance,12/30/2017,10:30PM,Male,35.0,white,Death,1,Possessed Weapon
+239,Forney PoliceDepartment,FM 2932 & FM 741,Unincorporated,Kaufman,751266,OtherSpecify type of call:Off duty - attempted to assist motorist,1/3/2016,,Male,23.0,white,Injury,1,No Weapon
+24,Anderson CountySheriff's Office,West Lacy atRoberts Street,Palestine,Anderson,758016,Execution of aWarrant,11/28/2016,2:31PM,Male,39.0,black,Injury,1,Possessed Weapon
+240,Forney PoliceDepartment,1100 Riverwood,Dallas,Dallas,752176,OtherSpecify type of call:Suspicious Person,1/19/2016,,Male,36.0,white,Death,3,Possessed Weapon
+242,Fort Worth PoliceDepartment,8401 Whitney Drive,Fort Worth,Tarrant,761086,Request forAssistance,5/19/2018,8:10 PM,Male,25.0,white,Injury,6,Possessed Weapon
+243,Fort Worth PoliceDepartment,3319 N. CommerceStreet,Fort Worth,Tarrant,761066,Emergency Call orRequest forAssistance,11/9/2016,12:50PM,Male,62.0,white,Injury,3,Possessed Weapon
+244,Fort Worth PoliceDepartment,9101 West FreewaySR EB,Fort Worth,Tarrant,761086,Traffic Stop,12/17/2017,12:28AM,Male,40.0,hispanic,Injury,3,Possessed Weapon
+245,Fort Worth PoliceDepartment,2300 Blandin Street,Fort Worth,Tarrant,761116,OtherSpecify type of call:Investigation of suspected narcotics violation,9/30/2017,11:22PM,Male,35.0,hispanic,Injury,1,Possessed Weapon
+246,Fort Worth PoliceDepartment,3300 New YorkAvenue,Fort Worth,Tarrant,761106,Emergency Call orRequest forAssistance,8/26/2017,10:40PM,Male,62.0,black,Injury,2,Possessed Weapon
+247,Fort Worth PoliceDepartment,8801 NorthFreeway ServiceRoad South,Fort Worth,Tarrant,761776,Emergency Call orRequest forAssistance,2/14/2018,3:50 PM,Male,47.0,white,Death,2,Possessed Weapon
+248,Fort Worth PoliceDepartment,1200 East Loop 820North,Fort Worth,Tarrant,761186,Emergency Call orRequest forAssistance,8/22/2017,7:55 PM,Male,40.0,white,Injury,2,Possessed Weapon
+249,Fort Worth PoliceDepartment,1908 St. LouisAvenue,Fort Worth,Tarrant,761106,Execution of aWarrant,1/11/2018,1:16 AM,Male,60.0,hispanic,Death,1,Possessed Weapon
+25,Aransas CountySheriff's Office,100 Blk. BishopRoad,Rockport,Aransas,783826,"Emergency Call orRequest forAssistance; OtherSpecify type of call:Welfare concern, threat of suicide and even expressed desire of suicide by cop. Investigated by TexasRangers",5/12/2017,12:35PM,Male,35.0,white,Injury,1,Possessed Weapon
+250,Fort Worth PoliceDepartment,4000 E. LancasterAve.,Fort Worth,Tarrant,761036,OtherSpecify type of call:Suicidal Person,4/25/2017,6:28 PM,Male,52.0,hispanic,Death,1,Possessed Weapon
+251,Fort Worth PoliceDepartment,3230 TownsendDrive,Fort Worth,Tarrant,761066,"OtherSpecify type of call:vehicle pursuit, foot pursuit, resisting arrest",5/20/2016,1:30 PM,Male,12.0,white,Injury,1,No Weapon
+252,Fort Worth PoliceDepartment,6101 E. RosedaleStreet,Fort Worth,Tarrant,761126,Hostage/Barricade/OtherEmerg SituationPeace Officer Involved Injuries or Death Report :: Page 3 of 3,4/17/2016,,Male,46.0,hispanic,Injury,3,Possessed Weapon
+253,Fort Worth PoliceDepartment,450 F.M. 2871,Fort Worth,Tarrant,761266,Emergency Call orRequest forAssistance; TrafficStop; Execution of aWarrant,3/15/2016,,Male,42.0,white,Injury,1,Possessed Weapon
+254,Fort Worth PoliceDepartment,450 F.M. 2871,Fort Worth,Tarrant,761266,Emergency Call orRequest forAssistance; TrafficStop; Execution of aWarrant,3/15/2016,,Male,42.0,white,Death,1,Possessed Weapon
+255,Fort Worth PoliceDepartment,5310 Wonder Drive,Fort Worth,Tarrant,761336,Emergency Call orRequest forAssistance,12/30/2016,11:37PM,Male,25.0,white,Injury,1,Possessed Weapon
+256,Fort Worth PoliceDepartment,6016 Tallie Road,Fort Worth,Tarrant,761126,Execution of aWarrant,10/5/2016,7:15 PM,Male,29.0,black,Injury,1,Possessed Weapon
+257,Fort Worth PoliceDepartment,8700 N.Normandale Street,Fort Worth,Tarrant,761166,OtherSpecify type of call:Search for a suspect in an Aggravated Robbery,7/28/2016,1:00 AM,Male,33.0,black,Injury,1,Possessed Weapon
+261,Fort Worth PoliceDept.,200 West BerryStreet,Fort Worth,Tarrant,761046,Request forAssistance,12/19/2017,4:05AM,Male,34.0,white,Death,5,Possessed Weapon
+263,Fort Worth PoliceDept.,3521 May Street,Fort Worth,Tarrant,761106,Emergency Call orRequest forAssistance,9/14/2018,12:04AM,Male,23.0,black,Death,2,Possessed Weapon
+264,Fort Worth PoliceDept.,6301 PuringtonAvenue,Fort Worth,Tarrant,761126,Emergency Call orRequest forAssistance,9/5/2018,6:42 PM,Male,54.0,white,Injury,1,Possessed Weapon
+265,Fort Worth PoliceDept.,3749 FriendswayDrive,Fort Worth,Tarrant,761376,Emergency Call orRequest forAssistance,12/19/2015,,Male,34.0,white,Injury,8,Possessed Weapon
+266,Fort Worth PoliceDept.,5410 Helmick Ave,Fort Worth,Tarrant,761076,Emergency Call orRequest forAssistance,12/9/2018,9:00 PM,Female,39.0,black,Injury,1,No Weapon
+267,Freeport PoliceDepartment,100 Lakeview Dr.,Clute,Brazoria,775316,OtherSpecify type of call:Officer off duty accidently discharge,1/30/2016,,Male,36.0,black,Injury,1,No Weapon
+268,Freeport PoliceDept.,1010 MagnoliaStreet,Freeport,Brazoria,775416,Traffic Stop,9/2/2015,,Male,30.0,black,Injury,1,No Weapon
+269,Friendswood PoliceDepartment,300 block S.Friendswood Drive,Friendswood,Galveston,775466,OtherSpecify type of call:misdemeanor theft suspect,11/29/2016,3:15PM,Male,55.0,white,Death,1,Possessed Weapon
+27,Arlington PoliceDepartment,3811 South CooperSt.,Arlington,Tarrant,760156,Emergency Call orRequest forAssistance,11/26/2017,4:33PM,Male,21.0,white,Injury,1,Possessed Weapon
+270,Fulshear PoliceDepartment,6011 RemsonHollow,Katy,Fort Bend,774946,Emergency Call orRequest forAssistance,6/24/2016,6:05 PM,Female,42.0,white,Death,1,Possessed Weapon
+271,Galveston PoliceDepartment,1014 11th Street,Galveston,Galveston,775506,OtherSpecify type of call:Disturbance Involving Weapons,3/9/2017,6:19 PM,Female,36.0,white,Death,1,Possessed Weapon
+272,Galveston PoliceDept.,5300 Ave L,Galveston,Galveston,775516,Traffic Stop,6/25/2018,3:02 AM,Male,18.0,hispanic,Death,2,Possessed Weapon
+273,Galveston PoliceDept.,3208 80th Street,Galveston,Galveston,775516,"Hostage/Barricade/OtherEmerg SituationSpecify type of call:Subject was intoxicated, inside house with possibly others inside. A shot was heard inside and subjectrefused to come out at first.",9/6/2018,2:57 PM,Female,49.0,white,Death,2,Possessed Weapon
+274,Garland PoliceDepartment,1300 W. Miller Rd.,Garland,Dallas,750416,OtherSpecify type of call:Accident Investigation,6/8/2018,7:27 PM,Male,30.0,white,Injury,2,Possessed Weapon
+275,Garland PoliceDepartment,12115 Self PlazaDrive,Dallas,Dallas,752186,Emergency Call orRequest forAssistance,6/25/2018,5:09 PM,Male,29.0,white,Death,2,Possessed Weapon
+276,Garland PoliceDept.,839 W. CentervilleRd.,Garland,Dallas,750416,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Concern for welfare-Suicidal Subject,1/25/2019,11:02PM,Male,48.0,white,Death,2,Possessed Weapon
+277,Garland PoliceDept.,4200 Bass Pro Dr.,Garland,Dallas,750436,Emergency Call orRequest forAssistance,7/10/2018,1:36 PM,Male,40.0,white,Death,1,Possessed Weapon
+278,Gladewater PoliceDepartment,100 Block of E.Lake,Gladewater,Gregg,756476,Traffic Stop,11/5/2016,1:07 AM,Male,34.0,white,Death,1,No Weapon
+279,Gladewater PoliceDept.,1500 block ofFlorence,Gladewater,Gregg,756476,Emergency Call orRequest forAssistance,11/4/2018,4:30 PM,Male,29.0,white,Injury,1,No Weapon
+28,Arlington PoliceDepartment,2401 Diplomacy Dr.,Arlington,Tarrant,760116,Emergency Call orRequest forAssistance,11/17/2017,9:57AM,Male,39.0,hispanic,Injury,1,Possessed Weapon
+280,Grand Prairie PoliceDepartment,1000 IKEA Way,Grand Prairie,Dallas,750526,OtherSpecify type of call:Welfare Check,4/23/2018,2:35 PM,Male,37.0,black,Death,11,Possessed Weapon
+281,Grand Prairie PoliceDepartment,401 E. Cober Drive,Grand Prairie,Dallas,750516,OtherSpecify type of call:Disturbance call at deceased person's residence,2/17/2017,6:21 PM,Male,30.0,white,Death,1,No Weapon
+282,Grand Prairie PoliceDepartment,2600 Santa Barbara,Grand Prairie,Dallas,750516,OtherSpecify type of call:Burglary of a Motor Vehicle in Progress,5/27/2018,4:44 AM,Male,26.0,black,Injury,1,No Weapon
+283,Grand Prairie PoliceDept.,2100 Bardin Rd.,Grand Prairie,Dallas,750526,OtherSpecify type of call:Suspicious person call.,11/11/2018,1:42AM,Male,34.0,white,Injury,3,Possessed Weapon
+284,Grand Prairie PoliceDept.,4865 Autumn Hill,Grand Prairie,Dallas,750526,OtherSpecify type of call:Possible Active Shooter in a residence.,11/24/2018,4:00AM,Male,34.0,hispanic,Injury,2,Possessed Weapon
+285,Greenville PoliceDepartment,1216 Interstate 30#228,Greenville,Hunt,754026,Execution of aWarrant,6/22/2016,9:21 AM,Male,36.0,white,Injury,1,Possessed Weapon
+286,Guadalupe CountySheriff,1057 Marion Rd.,Marion,Guadalupe,781246,"OtherSpecify type of call:Domestic Violence, Suicidal Subject",3/5/2017,5:30 PM,Male,40.0,white,Injury,1,Possessed Weapon
+287,Guadalupe CountySheriff's Office,"1940 FM 464, #9",Seguin,Guadalupe,781556,Execution of aWarrant,10/13/2016,11:20AM,Male,36.0,white,Injury,1,Possessed Weapon
+288,Hardeman CountySheriff's Dept.,305 West 9th,Quanah,Hardeman,792526,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:,3/9/2019,9:00 AM,Male,59.0,white,Death,1,Possessed Weapon
+289,Hardin CountySheriff's Dept.,14751 AtlanticRoad,Sour Lake,Hardin,776596,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Violation of Protective Order and Sexual Assault,3/10/2019,10:24AM,Male,27.0,black,Injury,2,Possessed Weapon
+29,Arlington PoliceDepartment,4311 Kelly Hill Drive,Arlington,Tarrant,760176,Warrant,10/31/2017,5:30PM,Male,22.0,black,Death,5,Possessed Weapon
+290,Hardin CountySheriff's Dept.,14751 AtlanticRoad,Sour Lake,Hardin,776596,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Violation of Protective Order and Sexual Assault,3/10/2019,10:24AM,Female,4.0,black,Injury,1,No Weapon
+291,Hardin CountySheriff's Office,972 FM 92,Silsbee,Hardin,776566,Emergency Call orRequest forAssistance; TrafficStop,5/26/2018,4:20 AM,Male,51.0,white,Death,1,Possessed Weapon
+292,Harker HeightsPolice Department,521 E. VeteransMemorial Blvd.,Harker Heights,Bell,765486,"OtherSpecify type of call:Welfare concern (subject staggering into traffic), threatened officers with item thought to be a gun",12/7/2016,4:08 PM,Male,44.0,white,Injury,2,No Weapon
+293,Harlingen PoliceDept.,2500 ChuparosaCourt,Harlingen,Cameron,785506,Emergency Call orRequest forAssistance,11/16/2015,,Male,32.0,hispanic,Injury,1,Possessed Weapon
+294,Harris CountyConstable Pct 4,12431 SaratogaWoods Lane,Humble,Harris,773466,Assistance,4/17/2018,2:54 AM,Male,31.0,white,Injury,4,Possessed Weapon
+298,Harris CountyConstable Precinct3,14710WOODFOREST,CHANNELVIEW,Harris,775326,Emergency Call orRequest forAssistance;Execution of aWarrant,12/5/2018,11:00AM,Male,47.0,white,Injury,1,Possessed Weapon
+299,Harris CountyConstable Precinct3,202 Uvalde,houston,Harris,770156,OtherSpecify type of call:Pursuit,7/31/2018,10:00AM,Male,24.0,black,Injury,1,Possessed Weapon
+3,Alamo HeightsPolice Department,305 Elizabeth,San Antonio,Bexar,782096,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,10/21/2017,11:58PM,Male,61.0,white,Injury,1,Possessed Weapon
+30,Arlington PoliceDepartment,2117 ReverchonDrive,Arlington,Tarrant,760176,OtherSpecify type of call:911 Hang Up,3/8/2018,3:15 PM,Male,38.0,asian,Death,2,Possessed Weapon
+300,Harris CountyConstable Precinct3,9502 Maple Creek,Houston,Harris,770446,OtherSpecify type of call:Vehicle Chase,4/10/2017,3:15 AM,Male,17.0,hispanic,Injury,1,Possessed Weapon
+301,Harris CountyConstable Precinct3,Address redactedas it was officer'shome address,Highlands,Harris,775626,OtherSpecify type of call:Male knocked on door of officer's residence after seeing his police vehicle parked out front.,8/13/2016,3:41 PM,Male,31.0,white,Death,1,Possessed Weapon
+302,Harris CountyConstable Precinct4,16200 Lobo Lane,Spring,Harris,773796,OtherSpecify type of call:Dispatch to a reported Burglary of a Habitation.,1/9/2019,4:38 PM,Male,57.0,white,Injury,1,Possessed Weapon
+304,Harris CountyConstable Precinct4,14000 Ella Blvd.,Houston,Harris,770146,OtherSpecify type of call:Attempting to stop subject for Agg. Robbery,10/18/2017,8:48PM,Male,33.0,black,Injury,3,Possessed Weapon
+305,Harris CountyConstable Precinct4,23926 Spring DaneDr.,Spring,Harris,773736,Specify type of call:Agency contacted by another agency and request made to make contact with the deceased regarding threatsmade by the deceased and complete welfare check.,9/19/2016,10:17PM,Female,46.0,white,Death,1,Possessed Weapon
+307,Harris CountyConstable Precinct5,7500 W. SamHouston Tollway,Houston,Harris,770726,Traffic Stop,4/28/2016,,Male,24.0,black,Death,1,No Weapon
+309,Harris CountyConstable Precinct6,3200 TelephoneRoad,Houston,Harris,770236,Emergency Call orRequest forAssistance,2/23/2016,,Male,40.0,hispanic,Death,1,Possessed Weapon
+31,Arlington PoliceDepartment,3806 Shady Valley,Arlington,Tarrant,760136,Emergency Call orRequest forAssistance,7/15/2017,5:14 PM,Male,23.0,white,Death,1,Possessed Weapon
+312,Harris CountySheriff's Dept.,14800 StuebnerAirline Rd,Houston,Harris,770696,Traffic Stop,10/31/2018,3:58PM,Male,17.0,hispanic,Death,3,Possessed Weapon
+313,Harris CountySheriff's Dept.,725 E 12th 1/2 St,Houston,Harris,770086,Execution of aWarrant,10/1/2018,11:01AM,Male,29.0,other,Death,2,Possessed Weapon
+314,Harris CountySheriff's Dept.,8600 East FwyService Rd,Houston,Harris,770296,OtherSpecify type of call:Undercover felony stop on aggravated robbery suspect,8/29/2018,5:47 PM,Male,17.0,black,Death,1,Possessed Weapon
+315,Harris CountySheriff's Dept.,8801 Airline Dr,Houston,Harris,770376,"OtherSpecify type of call:Peace Officer on-viewed a male on property, who was previously issued a criminal trespass warning to notreturn.",8/26/2018,11:47PM,Male,18.0,other,Death,1,Possessed Weapon
+316,Harris CountySheriff's Dept.,13635 ReevestonRd,Houston,Harris,770396,Emergency Call orRequest forAssistance,7/14/2018,5:46 PM,Male,26.0,black,Injury,1,Possessed Weapon
+317,Harris CountySheriff's Dept.,8727 Point Park Dr,Houston,Harris,770956,Emergency Call orRequest forAssistance,7/20/2018,4:03 PM,Male,19.0,hispanic,Death,10,Possessed Weapon
+318,Harris CountySheriff's Dept.,1655 Blue BellRoad,Houston,Harris,770386,Emergency Call orRequest forAssistance,11/17/2015,,Male,30.0,black,Death,1,Possessed Weapon
+319,Harris CountySheriff's Dept.,6830 ChampionsPlaza Dr. #508,Houston,Harris,770696,OtherSpecify type of call:Burglary of habitation,10/6/2015,,Male,25.0,black,Injury,1,Possessed Weapon
+32,Arlington PoliceDepartment,640 E. Front Street,Arlington,Tarrant,760116,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,5/11/2017,3:27 PM,Male,26.0,hispanic,Death,3,Possessed Weapon
+320,Harris CountySheriff's Dept.,7411 Greenyard Dr,Houston,Harris,770866,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Abduction Kidnapping,1/6/2019,10:06 PM,Male,37.0,asian,Death,1,Possessed Weapon
+321,Harris CountySheriff's Dept.,1450 CypressStation Dr,Houston,Harris,770906,OtherSpecify type of call:Undercover Task Force officers observed a fresh stolen on a public roadway and followed.,1/10/2019,8:05 PM,Male,17.0,black,Injury,1,Possessed Weapon
+323,Harris CountySheriff's Office,15300 EllaBoulevard,Houston,Harris,770906,OtherSpecify type of call:Working extra employment and investigating possible drug dealing activity,6/3/2017,3:52 AM,Male,26.0,black,Injury,1,Possessed Weapon
+324,Harris CountySheriff's Office,6646 AddicksSatsuma Road,Houston,Harris,770846,Emergency Call orRequest forAssistance,1/29/2018,2:17 PM,Male,46.0,hispanic,Death,1,Possessed Weapon
+325,Harris CountySheriff's Office,21214 NorthwestFrwy.,Cypress,Harris,774296,Emergency Call orRequest forAssistance,1/3/2017,8:50 AM,Male,21.0,black,Injury,2,Possessed Weapon
+326,Harris CountySheriff's Office,14235 BurnhamStreet,Houston,Harris,770536,Emergency Call orRequest forAssistance,1/1/2017,8:30 AM,Male,,hispanic,Death,1,Possessed Weapon
+327,Harris CountySheriff's Office,16700 ImperialValley,Houston,Harris,770606,OtherSpecify type of call:On viewed disturbance in roadway,3/22/2018,2:30 PM,Male,35.0,black,Death,3,No Weapon
+328,Harris CountySheriff's Office,17926 Seven Pines,Spring,Harris,773796,Emergency Call orRequest forAssistance,3/16/2018,6:30 AM,Male,38.0,hispanic,Injury,1,No Weapon
+329,Harris CountySheriff's Office,17926 Seven Pines,Spring,Harris,773796,Emergency Call orRequest forAssistance,3/16/2018,6:30 AM,Male,34.0,white,Death,1,No Weapon
+33,Arlington PoliceDepartment,1703 Spring LakeDrive,Arlington,Tarrant,760126,Traffic Stop,2/1/2017,11:53 PM,Male,23.0,black,Death,1,Possessed Weapon
+330,Harris CountySheriff's Office,Kiplands Way Dr.,Houston,Harris,770146,Emergency Call orRequest forAssistance,1/31/2018,9:50 PM,Male,35.0,white,Death,1,Possessed Weapon
+331,Harris CountySheriff's Office,973 Ashland Street#21,Channelview,Harris,775306,Execution of aWarrant,8/11/2017,6:00 AM,Male,24.0,hispanic,Death,3,Possessed Weapon
+332,Harris CountySheriff's Office,12712 WoodforestBlvd.,Houston,Harris,770156,OtherSpecify type of call:Officer was on an extra job and responded to an assault in the parking lot of business. Suspect fired aweapon at officers.,5/12/2017,3:15 AM,Male,27.0,hispanic,Death,2,Possessed Weapon
+333,Harris CountySheriff's Office,20406 Blue BeechDr.,Katy,Harris,774496,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,5/4/2017,7:05 PM,Female,54.0,hispanic,Death,1,Possessed Weapon
+334,Harris CountySheriff's Office,9561 Airline Dr.,Houston,Harris,770376,Emergency Call orRequest forAssistance,4/4/2017,3:31 PM,Male,32.0,white,Death,4,Possessed Weapon
+335,Harris CountySheriff's Office,8712 Airline Dr.,Houston,Harris,770376,OtherSpecify type of call:On-Viewed Domestic Disturbance. Suspect attempted to run deputy over with vehicle.,3/26/2017,10:07PM,Male,41.0,hispanic,Injury,1,Possessed Weapon
+336,Harris CountySheriff's Office,5455 Tiber CreekPlace Dr. #701,Houston,Harris,770846,Emergency Call orRequest forAssistance; OtherSpecify type of call:Domestic disturbance between mother & daughter. Dog was shot during deputy interaction.,3/23/2017,9:56 AM,Female,43.0,hispanic,Injury,1,No Weapon
+337,Harris CountySheriff's Office,1500 SpringCypress Rd.,Spring,Harris,773886,Traffic Stop,3/13/2016,,Male,,black,Injury,1,Possessed Weapon
+338,Harris CountySheriff's Office,9803 LodgewoodCourt,Houston,Harris,770866,Emergency Call orRequest forAssistance,2/24/2016,,Male,18.0,hispanic,Injury,2,Possessed Weapon
+339,Harris CountySheriff's Office,3833 CypressCreek Parkway,Houston,Harris,770686,"OtherSpecify type of call:Deputy witnessed an altercation between decedent and citizen. When depty attempted to intervene anddetain the decendent, a physical altercation began. Deputy tased the decedent, but taser was ineffective.Decedent continued to fight with deputy, at which time the deputy discharged his firearm.",3/12/2016,,Male,20.0,black,Death,1,No Weapon
+34,Arlington PoliceDepartment,412 SummitAvenue #110,Arlington,Tarrant,760136,Execution of aWarrant,4/25/2016,,Male,23.0,white,Injury,1,Possessed Weapon
+340,Harris CountySheriff's Office,19214 Rolling SageDr.,Katy,Harris,774496,Emergency Call orRequest forAssistance,4/12/2015,,Male,58.0,white,Injury,2,Possessed Weapon
+341,Harris CountySheriff's Office,5119 Sprey Drive,Houston,Harris,770846,Emergency Call orRequest forAssistance,8/15/2016,12:58AM,Female,38.0,black,Injury,1,No Weapon
+342,Harris CountySheriff's Office,1504 Ben TaubLoop,Houston,Harris,770306,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,10/6/2016,11:00AM,Male,46.0,white,Injury,1,Possessed Weapon
+343,Harris CountySheriff's Office,6430 Founding,Katy,Harris,774496,Emergency Call orRequest forAssistance,9/7/2016,11:35 PM,Male,30.0,black,Injury,4,Possessed Weapon
+344,Harris CountySheriff's Office,6430 Founding,Katy,Harris,774496,Emergency Call orRequest forAssistance,9/7/2016,11:35 PM,Male,24.0,black,Injury,1,Possessed Weapon
+345,Harris CountySheriff's Office,6430 Founding,Katy,Harris,774496,Emergency Call orRequest forAssistance,9/7/2016,11:35 PM,Male,18.0,black,Injury,1,Possessed Weapon
+347,Harrison CountySheriff,5471 Curtis BlackRd,Hallsville,Harrison,756506,OtherSpecify type of call:Welfare Check - mental health,1/20/2018,10:20AM,Male,61.0,black,Death,1,No Weapon
+349,Hays County Sheriff,500 Spoke HollowRoad,Wimberley,Hays,786766,OtherSpecify type of call:Fictitious call to 911 from deceased to set up ambush of responding deputies,11/24/2017,4:00AM,Male,26.0,white,Death,1,Possessed Weapon
+352,Honey Grove PoliceDepartment,90 S. 2nd Street,Honey Grove,Fannin,754466,Traffic Stop,4/22/2018,10:15PM,Male,53.0,black,Injury,1,No Weapon
+353,Hopkins CountySheriff's Office,5592 FM 1567 East,Sulphur Springs,Hopkins,754826,Emergency Call orRequest forAssistance; OtherSpecify type of call:Vehicle Pursuit/Domestic Violence,5/26/2018,8:57 PM,Male,44.0,white,Injury,4,Possessed Weapon
+354,Houston PoliceDepartment,9421 Cullen Blvd.,Houston,Harris,770516,Emergency Call orRequest forAssistance,5/26/2018,1:22 AM,Male,46.0,black,Injury,1,No Weapon
+355,Houston PoliceDepartment,8700 SouthBraeswood Blvd.,Houston,Harris,770316,Emergency Call orRequest forAssistance,10/28/2017,4:50PM,Male,24.0,hispanic,Injury,3,Possessed Weapon
+356,Houston PoliceDepartment,5400 Bellaire Blvd.,Bellaire,Harris,774016,Emergency Call orRequest forAssistance,10/24/2017,7:45AM,Male,33.0,hispanic,Death,1,Possessed Weapon
+357,Houston PoliceDepartment,5801 N. HoustonRosslyn Rd.,Houston,Harris,770916,Assistance,10/20/2017,9:20PM,Male,54.0,hispanic,Death,4,Possessed Weapon
+358,Houston PoliceDepartment,16800 ImperialValley,Houston,Harris,770606,OtherSpecify type of call:Suspicious Person/Weapon,2/16/2018,9:41 AM,Male,57.0,black,Injury,5,Possessed Weapon
+359,Houston PoliceDepartment,4500 Sunburst,Bellaire,Harris,774016,Traffic Stop,9/5/2017,12:45 AM,Female,61.0,white,Injury,7,No Weapon
+360,Houston PoliceDepartment,4500 Sunburst,Bellaire,Harris,774016,Traffic Stop,9/5/2017,12:45 AM,Female,32.0,white,Injury,7,No Weapon
+361,Houston PoliceDepartment,4500 Sunburst,Bellaire,Harris,774016,Traffic Stop,9/5/2017,12:45 AM,Female,28.0,white,Injury,7,No Weapon
+362,Houston PoliceDepartment,5400 West LoopSouth,Bellaire,Harris,774016,Emergency Call orRequest forAssistance,2/1/2018,9:20 AM,Male,37.0,black,Death,1,Possessed Weapon
+363,Houston PoliceDepartment,7800 North LoopEast,Houston,Harris,770286,OtherSpecify type of call:On-View Theft,3/10/2017,8:33 PM,Male,26.0,black,Injury,1,No Weapon
+364,Houston PoliceDepartment,5104 Almeda,Houston,Harris,770046,Emergency Call orRequest forAssistance,5/17/2017,3:10 AM,Male,30.0,black,Injury,2,Possessed Weapon
+365,Houston PoliceDepartment,14874 Estrellita,Houston,Harris,770606,Emergency Call orRequest forAssistance,4/27/2017,1:30 PM,Male,36.0,black,Injury,2,Possessed Weapon
+366,Houston PoliceDepartment,6902 Hwy 6 North,Houston,Harris,770846,OtherSpecify type of call:Robbery Sting,4/24/2017,11:00PM,Male,17.0,black,Injury,3,Possessed Weapon
+367,Houston PoliceDepartment,6902 Hwy 6 North,Houston,Harris,770846,OtherSpecify type of call:Robbery Sting,4/24/2017,11:00PM,Male,16.0,black,Death,3,Possessed Weapon
+368,Houston PoliceDepartment,6902 Hwy 6 North,Houston,Harris,770846,OtherSpecify type of call:Robbery Sting,4/24/2017,11:00PM,Male,15.0,black,Injury,3,No Weapon
+369,Houston PoliceDepartment,2600 Mayview Dr.,Houston,Harris,770916,Emergency Call orRequest forAssistance,4/10/2017,8:34 PM,Male,39.0,black,Death,1,Possessed Weapon
+37,Arlington PoliceDept.,1701 W. Randol MillRd.,Arlington,Tarrant,760126,Emergency Call orRequest forAssistance,1/11/2019,10:11PM,Male,20.0,black,Death,2,Possessed Weapon
+370,Houston PoliceDepartment,7600 East Road,Houston,Harris,770546,Emergency Call orRequest forAssistance,3/24/2017,12:27AM,Male,36.0,black,Injury,2,Possessed Weapon
+371,Houston PoliceDepartment,8710 SterlingameDr.,Houston,Harris,770316,Emergency Call orRequest forAssistance,2/28/2017,12:00PM,Male,25.0,black,Death,2,Possessed Weapon
+372,Houston PoliceDepartment,3200 Cliffdale,Houston,Harris,770916,OtherSpecify type of call:On-View Burglary of Residence,2/16/2017,11:50AM,Male,42.0,black,Injury,3,No Weapon
+373,Houston PoliceDepartment,1100 W. Alabama,Houston,Harris,770066,Emergency Call orRequest forAssistance,7/24/2016,5:05 PM,Male,27.0,white,Injury,2,No Weapon
+374,Houston PoliceDepartment,6700 Cullen Blvd.,Houston,Harris,770216,OtherSpecify type of call:On-View Suspicious Person - Armed,7/9/2016,1:39 AM,Male,38.0,black,Death,2,Possessed Weapon
+375,Houston PoliceDepartment,3409 Cavalcade,Houston,Harris,770266,OtherSpecify type of call:Accidental Discharge,6/7/2016,2:13 AM,Male,47.0,black,Injury,1,No Weapon
+376,Houston PoliceDepartment,13210 MemorialDrive,Houston,Harris,770796,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,5/29/2016,11:15AM,Male,25.0,hispanic,Death,3,Possessed Weapon
+377,Houston PoliceDepartment,6700 Joyner,Houston,Harris,770876,OtherSpecify type of call:On View Auto Theft,5/24/2016,5:27 PM,Male,30.0,white,Injury,1,No Weapon
+378,Houston PoliceDepartment,5098 Bingle,Houston,Harris,770926,OtherSpecify type of call:Robbery Sting,5/20/2016,12:29PM,Male,22.0,hispanic,Injury,1,Possessed Weapon
+379,Houston PoliceDepartment,9600 N. Wayside,Houston,Harris,770786,Traffic Stop,4/28/2016,,Male,42.0,black,Injury,1,Possessed Weapon
+38,Arlington PoliceDept.,2400 blockCalifornia Lane,Arlington,Tarrant,760156,Traffic Stop,9/1/2018,1:55 PM,Male,24.0,black,Death,1,Possessed Weapon
+380,Houston PoliceDepartment,6027 Ledbetter,Houston,Harris,770876,Emergency Call orRequest forAssistance,4/17/2016,,Male,29.0,black,Injury,1,Possessed Weapon
+381,Houston PoliceDepartment,11300 North Fwy,Houston,Harris,770376,OtherSpecify type of call:Robbery Sting,3/17/2016,,Male,30.0,black,Death,5,Possessed Weapon
+382,Houston PoliceDepartment,11300 North Fwy,Houston,Harris,770376,OtherSpecify type of call:Robbery Sting,3/17/2016,,Male,29.0,black,Death,5,No Weapon
+383,Houston PoliceDepartment,11300 North Fwy,Houston,Harris,770376,OtherSpecify type of call:Robbery Sting,3/17/2016,,Male,23.0,black,Injury,5,Possessed Weapon
+384,Houston PoliceDepartment,11300 North Fwy,Houston,Harris,770376,OtherSpecify type of call:Robbery Sting,3/17/2016,,Male,25.0,black,Injury,5,No Weapon
+385,Houston PoliceDepartment,200 S 70th St,Houston,Harris,770116,Emergency Call orRequest forAssistance,3/20/2016,,Male,28.0,hispanic,Injury,2,Possessed Weapon
+386,Houston PoliceDepartment,3400 Eastex FwyOB,Houston,Harris,770266,OtherSpecify type of call:On View Criminal Mischief,3/12/2016,,Male,37.0,black,Death,1,No Weapon
+387,Houston PoliceDepartment,5420 Hwy 6 North,Houston,Harris,770846,OtherSpecify type of call:Robbery Sting,2/13/2016,,Male,16.0,black,Injury,5,Possessed Weapon
+388,Houston PoliceDepartment,16250 ImperialValley Drive,Houston,Harris,770606,OtherSpecify type of call:Robbery Sting,12/7/2016,11:35PM,Male,37.0,black,Death,1,Possessed Weapon
+389,Houston PoliceDepartment,301 Benmar,Houston,Harris,770606,Traffic Stop,12/5/2016,1:34 AM,Male,26.0,hispanic,Injury,2,Possessed Weapon
+39,Arlington PoliceDept.,500 N. CooperStreet,Arlington,Tarrant,760126,OtherSpecify type of call:Felony traffic stop of armed robbery suspect,9/25/2015,,Male,38.0,black,Injury,2,Possessed Weapon
+390,Houston PoliceDepartment,7129 Lawndale,Houston,Harris,770236,OtherSpecify type of call:On View Robbery,2/5/2016,,Male,16.0,hispanic,Injury,1,Possessed Weapon
+391,Houston PoliceDepartment,11603 RiderwoodDrive,Houston,Harris,770996,OtherSpecify type of call:Assault of Police Officer,10/13/2016,7:21PM,Male,21.0,black,Injury,1,No Weapon
+392,Houston PoliceDepartment,4000 Law,Houston,Harris,770056,Emergency Call orRequest forAssistance,9/26/2016,7:29 AM,Male,46.0,white,Death,1,Possessed Weapon
+399,Houston PoliceDepartment,3243 Wentworth,Houston,Harris,770046,OtherSpecify type of call:Burglary of Habitation - On View,4/16/2018,1:20 AM,Male,36.0,black,Injury,1,No Weapon
+4,Allen PoliceDepartment,206 S. Arbor RidgeDrive,Allen,Collin,750026,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,12/8/2016,4:55 PM,Male,64.0,white,Death,2,Possessed Weapon
+40,Arlington PoliceDept.,703 East MitchellStreet,Arlington,Tarrant,760106,OtherSpecify type of call:Suicidal subject with a firearm,12/13/2015,,Female,51.0,white,Death,2,Possessed Weapon
+400,Houston PoliceDept.,2811 EAGLECREEK,HOUSTON,Harris,770046,Emergency Call orRequest forAssistance,10/27/2018,12:49AM,Male,30.0,white,Death,1,Possessed Weapon
+401,Houston PoliceDept.,2525 WINROCKBLVD,HOUSTON,Harris,770576,Emergency Call orRequest forAssistance,9/28/2018,12:26AM,Male,23.0,black,Death,3,Possessed Weapon
+402,Houston PoliceDept.,16505 TIFFANYCOURT,HOUSTON,Harris,770586,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Suspicious Person - Armed,9/8/2018,9:50 AM,Male,43.0,black,Death,1,Possessed Weapon
+403,Houston PoliceDept.,4603 TIDWELL RD,HOUSTON,Harris,770166,OtherSpecify type of call:ON VIEW ROBBERY IN PROGRESS,7/26/2018,8:50 PM,Male,19.0,black,Injury,1,No Weapon
+404,Houston PoliceDept.,4002 Corder,Houston,Harris,770216,Emergency Call orRequest forAssistance,12/25/2015,,Male,16.0,black,Injury,1,No Weapon
+405,Houston PoliceDept.,3800 Hickok Lane,Houston,Harris,770476,OtherSpecify type of call:Attempted Robbery,12/29/2015,,Male,22.0,black,Injury,1,Possessed Weapon
+406,Houston PoliceDept.,10079 Briarwild,Houston,Harris,770806,Emergency Call orRequest forAssistance,12/12/2015,,Male,35.0,hispanic,Injury,1,No Weapon
+407,Houston PoliceDept.,4926 Chennault Rd.,Houston,Harris,770336,Emergency Call orRequest forAssistance,9/5/2015,,Male,21.0,black,Injury,1,Possessed Weapon
+408,Houston PoliceDept.,3200 Drew,Houston,Harris,770046,Traffic Stop,11/4/2015,,Male,56.0,black,Death,1,Possessed Weapon
+409,Houston PoliceDept.,13630 VeteransMemorial,Houston,Harris,770146,OtherSpecify type of call:Robbery Sting,10/30/2015,,Male,24.0,black,Injury,2,Possessed Weapon
+41,Arlington PoliceDept.,2700 W. DivisionStreet,Arlington,Tarrant,760126,OtherSpecify type of call:Active shooter fleeing from and shooting at police officers,9/25/2015,,Male,38.0,black,Injury,1,Possessed Weapon
+410,Houston PoliceDept.,13630 VeteransMemorial,Houston,Harris,770146,OtherSpecify type of call:Robbery Sting,10/30/2015,,Male,25.0,black,Death,2,Possessed Weapon
+411,Houston PoliceDept.,13630 VeteransMemorial,Houston,Harris,770146,OtherSpecify type of call:Robbery Sting,10/30/2015,,Male,24.0,black,Death,2,Possessed Weapon
+412,Houston PoliceDept.,913 Panama,Houston,Harris,770096,Hostage/Barricade/OtherEmerg Situation,10/16/2015,,Male,27.0,white,Death,1,Possessed Weapon
+413,Houston PoliceDept.,7844 W. Tidwell Rd.,Houston,Harris,770406,"OtherSpecify type of call:Robbery Sting Operation, 3 officers discharged firearm",10/15/2015,,Male,20.0,black,Death,3,Possessed Weapon
+414,Houston PoliceDept.,7844 W. Tidwell Rd.,Houston,Harris,770406,"OtherSpecify type of call:Robbery Sting Operation, 3 officers discharged firearm",10/15/2015,,Male,22.0,black,Injury,3,Possessed Weapon
+415,Houston PoliceDept.,Protected by law,Houston,Harris,770196,OtherSpecify type of call:Attempted robbery of police officer,10/8/2015,,Male,15.0,black,Injury,1,Possessed Weapon
+416,Houston PoliceDept.,777 Bateswood Dr.,Houston,Harris,770796,Emergency Call orRequest forAssistance,10/9/2015,,Male,22.0,hispanic,Injury,1,Possessed Weapon
+417,Houston PoliceDept.,8600 HELMERS ST,HOUSTON,Harris,770226,Emergency Call orRequest forAssistance,7/15/2018,8:16 AM,Male,18.0,hispanic,Injury,1,Possessed Weapon
+418,Houston PoliceDept.,5219 AIRLINE DR,HOUSTON,Harris,770226,Emergency Call orRequest forAssistance,2/27/2019,12:00AM,Male,19.0,hispanic,Injury,2,Possessed Weapon
+422,Houston PoliceDept.,10600 BEECHNUTSTREET,HOUSTON,Harris,770726,Emergency Call orRequest forAssistance,2/21/2019,4:00 PM,Male,17.0,hispanic,Injury,1,Possessed Weapon
+424,Houston PoliceDept.,7812 HARDINGSTREET,HOUSTON,Harris,770126,Execution of aWarrant,1/28/2019,5:00 PM,Female,58.0,white,Death,7,No Weapon
+425,Houston PoliceDept.,7711GREENSTONE ST,HOUSTON,Harris,770876,Execution of aWarrant,1/10/2019,7:00 AM,Female,22.0,hispanic,Injury,1,No Weapon
+426,Houston PoliceDept.,12315 BELLAIREBLVD,HOUSTON,Harris,770726,Emergency Call orRequest forAssistance,11/27/2018,12:00AM,Male,41.0,asian,Death,1,Possessed Weapon
+427,Houston PoliceDept.,7812 HARDINGSTREET,HOUSTON,Harris,770126,Execution of aWarrant,1/28/2019,5:00 PM,Male,59.0,white,Death,7,Possessed Weapon
+428,Houston PoliceDept.,243 TURNER DR,HOUSTON,Harris,770766,Emergency Call orRequest forAssistance,1/28/2019,6:00 PM,Male,30.0,hispanic,Injury,1,No Weapon
+429,Houston PoliceDept.,110 E 44TH ST,HOUSTON,Harris,770186,Emergency Call orRequest forAssistance,1/4/2019,4:00 PM,Male,32.0,black,Death,1,Possessed Weapon
+43,Austin CountySheriff's Office,1568 Glenda Lane,Wallis,Austin,774856,Emergency Call orRequest forAssistance,10/8/2016,12:31PM,Male,77.0,hispanic,Injury,2,Possessed Weapon
+430,Houston PoliceDept.,11050SOUTHWEST FWYSERVICE ROAD,HOUSTON,Harris,770276,Emergency Call orRequest forAssistance,1/8/2019,9:00 AM,Male,26.0,black,Injury,2,Possessed Weapon
+431,Houston PoliceDept.,7647HARRISBURGBLVD,HOUSTON,Harris,770116,Execution of aWarrant,11/28/2018,10:00PM,Male,30.0,black,Death,1,Possessed Weapon
+432,Houston PoliceDept.,7100 BEECHNUTSTREET,HOUSTON,Harris,770746,Emergency Call orRequest forAssistance,11/14/2018,5:25PM,Male,61.0,hispanic,Death,1,No Weapon
+433,Howard CountySheriff's Dept.,400 Blk Dallas,Big Spring,Howard,797206,"Traffic Stop; Executionof a Warrant;Hostage/Barricade/OtherEmerg SituationSpecify type of call:On the 28th of December 2018 at approximately 1:48 PM, Officers with the Big Spring Police Departmentobserved a subject they knew Hispanic/Male 31 years of age driving a 2012 red in color Buick 4 door in thearea of 4th and Douglas. Officers knew he was wanted for Firearms Smuggling and Burglary of a Building atwhich time they attempted a traffic stop. He refused to stop and a pursuit initiated in the 400 block of S.Douglas. The pursuit continued southbound and ended in the 400 block of Edwards. He exited his vehicleand ran northbound in-between houses. A perimeter was set up and he was ultimately located hiding in adumpster in the alley of the 400 block of Dallas. Once he was located he fired multiple rounds at officers inwhich an Deputy with the Howard County Sheriff™s Office returned fire striking him in the hand. He was takeninto Custody a short time later and taken to Hospital and Treated for his injuries.",12/28/2018,1:48PM,Male,31.0,hispanic,Injury,1,Possessed Weapon
+434,Humble PoliceDepartment,19710 Hwy 59,Humble,Harris,773386,Emergency Call orRequest forAssistance,2/13/2018,10:51PM,Male,19.0,black,Injury,2,Possessed Weapon
+436,Hunt CountySheriff'sDepartment,115 N. 3rd Street,Celeste,Hunt,754236,OtherSpecify type of call:Arrest of Subject,3/15/2016,,Male,29.0,white,Injury,1,No Weapon
+437,Hunt CountySheriff's Dept.,Panther Path / Hwy.34,Quinlan,Hunt,754746,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Aggravated Assault with a Deadly Weapon Aggravated Kidnapping,10/17/2018,8:21PM,Male,34.0,white,Death,1,Possessed Weapon
+438,Huntsville PoliceDept.,141 IH 45 S,Huntsville,Walker,773406,Emergency Call orRequest forAssistance,1/11/2019,8:47 PM,Male,20.0,hispanic,Injury,1,Possessed Weapon
+439,Hurst Police Dept.,1304 West Redbud,Hurst,Tarrant,760536,Emergency Call orRequest forAssistance,10/5/2015,,Male,51.0,white,Death,2,Possessed Weapon
+44,Austin PoliceDepartment,7328 S. GlennStreet,Austin,Travis,787446,Emergency Call orRequest forAssistance,6/7/2018,3:23 AM,Female,20.0,hispanic,Death,1,Possessed Weapon
+441,Hutchinson CountySheriff's Office,213 Arroyo Verde,Fritch,Hutchinson,790366,Execution of aWarrant,1/19/2017,4:38 PM,Male,44.0,hispanic,Death,2,Possessed Weapon
+442,Irving PoliceDepartment,4101 W. 183Freeway WB,Irving,Dallas,750626,Hostage/Barricade/OtherEmerg Situation,1/29/2016,,Male,29.0,black,Death,1,Possessed Weapon
+443,Irving PoliceDepartment,4300 Wingren Road,Irving,Dallas,750606,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,2/3/2017,6:30 PM,Male,45.0,white,Death,3,Possessed Weapon
+444,Irving PoliceDepartment,3201 Finley Road,Irving,Dallas,750626,OtherSpecify type of call:Burglary of motor vehicle in progress,1/22/2018,1:07 AM,Male,28.0,hispanic,Death,1,Possessed Weapon
+445,Irving PoliceDepartment,1417 S. Story Road,Irving,Dallas,750606,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:,5/2/2017,7:40 AM,Male,48.0,black,Death,1,Possessed Weapon
+446,Irving Police Dept.,1500 Range Road,"DFW, Airport",Tarrant,752616,OtherSpecify type of call:Training Exercise - ricohet fragments resulting in minor injury,9/8/2015,,Male,44.0,white,Injury,1,No Weapon
+447,Irving Police Dept.,600 block Jeff Ct.,Irving,Dallas,750606,Emergency Call orRequest forAssistance,12/5/2015,,Male,24.0,white,Death,2,Possessed Weapon
+448,Jal Police Dept.,Hwy 115,Between Kermit &Wink,Winkler,797456,Emergency Call orRequest forAssistance,11/30/2015,,Male,31.0,hispanic,Death,1,Possessed Weapon
+449,Jim Wells CountySheriff's Office,12474 StateHighway 359,Sandia,Jim Wells,783836,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,5/3/2018,12:20 PM,Male,28.0,white,Death,1,Possessed Weapon
+45,Austin PoliceDepartment,11512 Olson Dr.,Austin,Travis,787506,Emergency Call orRequest forAssistance,1/14/2017,2:03 AM,Male,47.0,white,Death,1,Possessed Weapon
+450,Johnson CountyConstable Pct 2,809 Pecan,Burleson,Johnson,760286,Emergency Call orRequest forAssistance,9/15/2017,3:52 PM,Male,21.0,white,Injury,1,Possessed Weapon
+452,Johnson CountySheriff's Office,141 Harriette Circle,Cleburne,Johnson,760336,Emergency Call orRequest forAssistance; OtherSpecify type of call:Homicide,9/23/2016,11:55PM,Male,48.0,hispanic,Injury,1,Possessed Weapon
+453,Kaufman CountySheriff's Office,12531 S. StateHighway 34,Scurry,Scurry,751586,OtherSpecify type of call:Domestic Violence - Agg. Assault with Deadly Weapon,7/4/2016,1:30 AM,Male,29.0,black,Death,2,Possessed Weapon
+454,Kaufman CountySheriff's Office,1021 Everett Drive,Terrell,Kaufman,751606,OtherSpecify type of call:Responding to a Burglary of Vehicle in Progress,2/12/2017,3:30 AM,Male,40.0,white,Death,1,Possessed Weapon
+455,Kerens PoliceDepartment,1111 E. Tyler St.,Athens,Henderson,757516,"OtherSpecify type of call:Officer was off-duty in a retail facility when an armed robbery occurred, officer fired striking 2 of the 4suspects before taking all 4 into custody. One of the subjects was armed with a firearm and it was presentedduring the robbery. Armed subject was not injured.",3/16/2016,,Male,16.0,black,Injury,1,No Weapon
+456,Kerens PoliceDepartment,1111 E. Tyler St.,Athens,Henderson,757516,"OtherSpecify type of call:Officer was off-duty in a retail facility when an armed robbery occurred, officer fired striking 2 of the 4suspects before taking all 4 into custody. One of the subjects was armed with a firearm and it was presentedduring the robbery. Armed subject was not injured.",3/16/2016,,Male,16.0,black,Injury,1,No Weapon
+457,Kerrville PoliceDepartment,4116 RR 783 South,Harper,Gillespie,786316,Execution of aWarrant,1/20/2016,,Male,37.0,white,Death,1,Possessed Weapon
+459,Killeen PoliceDepartment,1805 Cedarhill #D,Killeen,Bell,765416,Emergency Call orRequest forAssistance,1/16/2017,9:30 AM,Male,35.0,white,Injury,1,Possessed Weapon
+46,Austin PoliceDepartment,5007 LynnwoodStreet,Austin,Travis,787566,Emergency Call orRequest forAssistance,12/15/2017,6:49AM,Male,50.0,black,Injury,1,Possessed Weapon
+460,Killeen PoliceDepartment,2608 Cross TimberDrive,Killeen,Bell,765436,Emergency Call orRequest forAssistance,2/16/2018,6:15 PM,Male,30.0,white,Injury,1,No Weapon
+461,Killeen PoliceDepartment,3207 E. CentralTexas Expressway,Killeen,Bell,765436,Emergency Call orRequest forAssistance,4/24/2017,5:15 PM,Male,15.0,black,Death,8,Possessed Weapon
+462,Killeen Police Dept.,215 W. HallmarkAve Apt A,Killeen,Bell,765416,Execution of aWarrant,2/27/2019,6:10 AM,Male,40.0,black,Death,4,Possessed Weapon
+463,La Grange PoliceDept.,243 Ellinger Road,La Grange,Fayette,789456,Execution of aWarrant,11/1/2018,5:17 PM,Male,49.0,black,Injury,5,Possessed Weapon
+465,La Marque PoliceDepartment,803 Retama,La Marque,Galveston,775686,Emergency Call orRequest forAssistance,12/3/2017,10:30PM,Male,62.0,white,Death,1,Possessed Weapon
+466,La Porte PoliceDepartment,3918 BaracudaLane,La Porte,Harris,775716,Emergency Call orRequest forAssistance,8/29/2017,12:15AM,Male,46.0,white,Death,1,Possessed Weapon
+467,La Porte PoliceDepartment,5021 Glenview Dr.,La Porte,Harris,775716,Emergency Call orRequest forAssistance,9/19/2017,8:37 PM,Male,55.0,white,Death,3,Possessed Weapon
+468,Lake JacksonPolice Department,50 block BayberryCourt,Lake Jackson,Brazoria,775666,Execution of aWarrant,2/24/2017,2:20 PM,Female,33.0,white,Death,4,Possessed Weapon
+469,Lancaster PoliceDepartment,1500 DewberryBlvd.,Lancaster,Dallas,751346,Traffic Stop; OtherSpecify type of call:Suspicious person/narcotics investigation,3/18/2018,7:55 PM,Male,36.0,black,Death,1,Possessed Weapon
+47,Austin PoliceDepartment,12200 block of FM1431,Smithwick,Burnet,786546,OtherSpecify type of call:Officer encountered an Aggravated Assault in progress while off-duty.,11/30/2017,10:30PM,Male,55.0,white,Injury,1,Possessed Weapon
+470,Laredo PoliceDepartment,339 Soria Dr.,Laredo,Webb,780466,Emergency Call orRequest forAssistance,5/18/2018,11:30AM,Male,29.0,hispanic,Death,3,Possessed Weapon
+471,Laredo PoliceDepartment,5300 McPhersonRd.,Laredo,Webb,780416,Emergency Call orRequest forAssistance; TrafficStop; OtherSpecify type of call:Located murder suspect shooting at officers,6/2/2017,6:00 PM,Male,55.0,hispanic,Death,2,Possessed Weapon
+472,Laredo PoliceDepartment,Santa Maria Ave.,Laredo,Webb,780456,Traffic Stop,5/22/2017,2:44 AM,Male,28.0,hispanic,Injury,1,No Weapon
+473,Laredo PoliceDepartment,3700 Santa IsabelAve.,Laredo,Webb,780416,Emergency Call orRequest forAssistance,3/28/2017,1:33 PM,Male,22.0,hispanic,Injury,1,Possessed Weapon
+474,Laredo PoliceDepartment,"2719 Norton Street,Apt. 3",Laredo,Webb,780466,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,12/11/2016,11:38AM,Male,33.0,hispanic,Injury,1,Possessed Weapon
+475,Laredo PoliceDepartment,"2719 Norton Street,Apt. 3",Laredo,Webb,780416,Emergency Call orRequest forAssistance,12/11/2016,11:38AM,Male,30.0,hispanic,Death,1,Possessed Weapon
+48,Austin PoliceDepartment,9300 Tanger Way,Austin,Travis,787486,OtherSpecify type of call:Preliminary investigation supports unintentional discharge of firearm while off-duty.,11/26/2017,12:26PM,Female,24.0,white,Injury,1,No Weapon
+483,Laredo Police Dept.,155 Horizon Loop,Laredo,Webb,780406,OtherSpecify type of call:Police responded to a 911 call about the suspect disturbing at the residence. Suspect had been arrested theday before for Assault Family Violence and had an active Emergency Protection Order. Suspect confronted police armed with an axand lunged at police who tried to negotiate with the suspect,11/13/2018,9:21PM,Male,60.0,white,Injury,3,Possessed Weapon
+484,Laredo Police Dept.,417 E Fremont St,Laredo,Webb,780426,Traffic Stop; OtherSpecify type of call:Domestic Violence call/ evading arrest.,9/15/2018,1:00 AM,Male,52.0,hispanic,Death,9,Possessed Weapon
+486,Laredo Police Dept.,"11119 Kirby Drive,Apt. #211",Laredo,Webb,780416,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationPeace Officer Involved Injuries or Death Report :: Page 3 of 3,11/9/2015,,Male,25.0,hispanic,Death,1,Possessed Weapon
+487,League City PoliceDepartment,314 Morningside,League City,Galveston,775736,Execution of aWarrant,5/1/2018,6:01 AM,Male,49.0,white,Death,1,Possessed Weapon
+488,League City PoliceDepartment,1600 Blk Lasina,League City,Galveston,775736,Emergency Call orRequest forAssistance,1/23/2018,5:26 PM,Male,18.0,hispanic,Death,1,Possessed Weapon
+49,Austin PoliceDepartment,1730 N IH 35 SBFrontage,Round Rock,Williamson,786816,OtherSpecify type of call:High risk vehicle take down during attempt to arrest local bombing suspect,3/20/2018,7:00 PM,Male,23.0,white,Death,1,Possessed Weapon
+490,League City PoliceDept.,323 Waco Ave.,League City,Galveston,775736,Execution of aWarrant,9/19/2018,10:30AM,Male,49.0,white,Death,1,Possessed Weapon
+492,Lee County Sheriff'sOffice,1872 County Road424,Dime Box,Lee,789426,Emergency Call orRequest forAssistance,2/8/2017,6:37 PM,Male,66.0,white,Injury,1,Possessed Weapon
+494,Little Elm PoliceDepartment,1433 Turtle CoveDr.,Little Elm,Denton,750686,OtherSpecify type of call:Man with a gun call,1/17/2017,4:00 PM,Male,46.0,hispanic,Death,1,Possessed Weapon
+495,Littlefiled PoliceDepartment,300 S. Westside,Littlefield,Lamb,793396,Hostage/Barricade/OtherEmerg Situation; OtherSpecify type of call:Suspect committed aggravated assault with a deadly weapon on 3 victims,3/21/2018,10:18AM,Male,18.0,hispanic,Death,2,Possessed Weapon
+496,Longview PoliceDept.,1401 E MarshallAvenue,Longview,Gregg,756016,Traffic Stop,12/23/2018,8:03PM,Male,32.0,black,Injury,1,Possessed Weapon
+497,Longview PoliceDept.,445 Forest Square,Longview,Gregg,756056,"OtherSpecify type of call:Call for service, burglary alarm",11/17/2015,,Male,35.0,white,Injury,1,Possessed Weapon
+498,Lubbock CountySheriff's Office,411 South Wicker,Littlefield,Lamb,793396,Execution of aWarrant,5/5/2017,10:50 PM,Male,27.0,hispanic,Injury,1,No Weapon
+499,Lubbock CountySheriff's Office,13900 CR 6300,Lorenzo,Lubbock,793436,Emergency Call orRequest forAssistance,11/9/2017,11:00AM,Male,40.0,white,Injury,1,Possessed Weapon
+5,Allen PoliceDepartment,706 S. Jupiter Road,Allen,Collin,750026,OtherSpecify type of call:Suspicious person call - two (2) officers involved,1/1/2017,12:29 AM,Female,23.0,white,Injury,2,Possessed Weapon
+50,Austin PoliceDepartment,5502 PoncianaDrive,Austin,Travis,787446,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,3/26/2018,3:00 AM,Male,28.0,hispanic,Death,1,Possessed Weapon
+500,Lubbock PoliceDepartment,2216 2nd Place,Lubbock,Lubbock,794156,Execution of aWarrant,11/4/2016,1:34 PM,Male,26.0,white,Injury,1,Possessed Weapon
+501,Lubbock PoliceDepartment,3318 Grinnell Street,Lubbock,Lubbock,794156,Execution of aWarrant,1/26/2017,11:29PM,Male,31.0,hispanic,Injury,1,Possessed Weapon
+502,Lubbock PoliceDepartment,1112 E. Quinn,Lubbock,Lubbock,794036,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,11/28/2017,1:42PM,Male,50.0,white,Injury,2,Possessed Weapon
+503,Lubbock PoliceDepartment,2606 N MLK,Lubbock,Lubbock,794036,OtherSpecify type of call:Disturbance call,4/24/2017,3:05 AM,Male,30.0,hispanic,Injury,3,Possessed Weapon
+504,Lubbock PoliceDept.,2012 49th St,Lubbock,Lubbock,794126,Emergency Call orRequest forAssistance,7/18/2018,4:00 PM,Male,34.0,white,Injury,1,Possessed Weapon
+505,Lubbock PoliceDept.,3910 Ave A,Lubbock,Lubbock,794036,Emergency Call orRequest forAssistance; OtherSpecify type of call:Robbery in Progress call with 2 suspects armed with handguns.,8/13/2018,1:46 AM,Male,20.0,black,Injury,2,Possessed Weapon
+506,Lubbock PoliceDept.,2012 49th Street,Lubbock,Lubbock,794126,Emergency Call orRequest forAssistance,7/18/2018,4:01 PM,Male,34.0,white,Injury,1,Possessed Weapon
+507,Lufkin PoliceDepartment,620 Kurth Dr.,Lufkin,Angelina,759046,Emergency Call orRequest forAssistance,3/1/2017,1:30 AM,Male,40.0,black,Death,3,Possessed Weapon
+508,Lufkin Police Dept.,120 Kirksey Dr.,Lufkin,Angelina,759016,Warrant,9/10/2018,10:08PM,Male,26.0,black,Injury,5,No Weapon
+51,Austin PoliceDepartment,6213 La NaranjaLane,Austin,Travis,787496,Emergency Call orRequest forAssistance,3/12/2018,1:30 AM,Male,24.0,hispanic,Injury,2,Possessed Weapon
+510,Matagorda CountySheriff's Office,1786 FM 2611,Cedar Lane,Matagorda,774156,Execution of a Warrant;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,11/16/2017,1:25PM,Male,68.0,black,Death,2,Possessed Weapon
+511,Mathis PoliceDepartment,116 S. SeventhStreet,Mathis,San Patricio,783686,Emergency Call orRequest forAssistance,5/22/2018,5:00 PM,Male,49.0,hispanic,Death,1,Possessed Weapon
+512,McAllen PoliceDepartment,"3409 N. McColl Rd.,Apt. #6",McAllen,Hidalgo,785046,OtherSpecify type of call:Call for service re: Suicidal Male,5/29/2016,,Male,31.0,hispanic,Injury,1,Possessed Weapon
+513,McKinney PoliceDepartment,1005WindymeadowLane,McKinney,Collin,750716,"OtherSpecify type of call:Suspicious Activity, became a burglary in progress",7/27/2016,1:16 PM,Male,22.0,hispanic,Injury,1,No Weapon
+514,McKinney PoliceDept.,1300 EldoradoPkwy,McKinney,Collin,750696,Emergency Call orRequest forAssistance; TrafficStop,9/23/2015,,Male,35.0,other,Death,2,Possessed Weapon
+515,McLennan CountySheriff's Office,101 Wood Ray Dr.,Elm Mott,McLennan,766406,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,3/6/2018,1:34 PM,Male,44.0,white,Injury,1,Possessed Weapon
+516,Medina CountySheriff's Office,16th Street andAvenue F,Hondo,Medina,788616,Traffic Stop;Execution of aWarrant,8/22/2018,8:02 PM,Male,42.0,hispanic,Injury,1,No Weapon
+517,Mesquite PoliceDepartment,12115 Self PlazaDrive,Dallas,Dallas,752186,Emergency Call orRequest forAssistance,6/25/2018,5:08 PM,Male,29.0,white,Death,2,Possessed Weapon
+518,Mesquite PoliceDepartment,1371 South TownEast Boulevard,Mesquite,Dallas,751496,Emergency Call orRequest forAssistance,11/8/2017,7:02 PM,Male,31.0,hispanic,Injury,1,No Weapon
+519,Mesquite PoliceDepartment,8032 Ferguson Rd.,Dallas,Dallas,752286,Emergency Call orRequest forAssistance,6/5/2016,8:12 PM,Male,30.0,black,Injury,1,Possessed Weapon
+52,Austin PoliceDepartment,4800 Tanney Street,Austin,Travis,787216,Assistance,3/7/2018,4:18 AM,Male,46.0,hispanic,Death,5,Possessed Weapon
+520,Mesquite PoliceDept.,3201 IH 30 #K2,Mesquite,Dallas,751506,Emergency Call orRequest forAssistance,11/22/2018,2:48AM,Male,18.0,black,Injury,1,Possessed Weapon
+521,Mesquite PoliceDept.,"IH20, one mile eastof Lumley Rd.",Mesquite,Dallas,751816,OtherSpecify type of call:Officer was not on a call. Officer was training at the department firing range.,5/16/2018,2:39 PM,Male,34.0,black,Injury,1,No Weapon
+522,Mesquite PoliceDept.,18600 IH 635,Mesquite,Dallas,751506,Hostage/Barricade/OtherEmerg Situation,10/30/2015,,Male,29.0,hispanic,Death,2,Possessed Weapon
+523,Midland CountySheriff's Dept.,5300 Blk E Hwy 80,Midland,Midland,797016,Emergency Call orRequest forAssistance,1/8/2019,12:42 PM,Male,33.0,hispanic,Death,1,Possessed Weapon
+524,Midland CountySheriff's Dept.,5300 Blk Thomason,Midland,Midland,797036,OtherSpecify type of call:Investigation of criminal activity,10/3/2015,,Male,22.0,hispanic,Injury,1,Possessed Weapon
+525,Midland CountySheriff's Dept.,13115 West CR127,Midland,Midland,797016,OtherSpecify type of call:Checking Sex Offender Status for Parole,1/30/2019,10:22PM,Male,52.0,white,Death,1,Possessed Weapon
+526,Midland CountySheriff's Office,11300 E. IH 20,Midland,Midland,797066,Emergency Call orRequest forAssistance,7/9/2017,1:47 AM,Male,28.0,hispanic,Injury,1,No Weapon
+527,Midland CountySheriff's Office,2201 W. CR 137,Midland,Midland,797016,OtherSpecify type of call:Homicide/Murder,3/12/2018,12:00AM,Male,57.0,hispanic,Death,1,Possessed Weapon
+528,Midland CountySheriff's Office,8700 Blk W Hwy158,Midland,Midland,797016,Emergency Call orRequest forAssistance,8/12/2017,6:30 AM,Male,20.0,hispanic,Injury,1,No Weapon
+529,Midland PoliceDepartment,500 E. Industrial,Midland,Midland,797016,Emergency Call orRequest forAssistance,10/10/2016,8:30PM,Male,19.0,american indian,Death,3,Possessed Weapon
+53,Austin PoliceDepartment,4900 blk of EdgeCreek Drive,Austin,Travis,787446,Hostage/Barricade/OtherEmerg SituationSpecify type of call:13. Incident occurred duringor as a result of a (hold downCTRL on your keyboard toselect more than one value)::Hostage/Barricade/OtherEmerg SituationSpecify type of call:,2/19/2018,5:30 PM,Male,23.0,hispanic,Death,7,Possessed Weapon
+530,Midland PoliceDept.,9500 South CountyRoad,Stanton,Midland,797826,Execution of aWarrant,8/16/2018,11:00AM,Male,41.0,hispanic,Death,5,Possessed Weapon
+531,Midlothian PoliceDepartment,5234 Charisma Dr.,Midlothian,Ellis,760656,Emergency Call orRequest forAssistance,3/11/2017,3:30 PM,Male,52.0,white,Death,1,Possessed Weapon
+532,Mineral WellsPolice Department,505 SW 20th Street,Mineral Wells,Palo Pinto,760676,Emergency Call orRequest forAssistance,12/9/2017,4:43 PM,Male,63.0,white,Death,1,Possessed Weapon
+533,Mission PoliceDepartment,217 Stage CoachDr.,Mission,Hidalgo,787526,Emergency Call orRequest forAssistance,2/22/2016,,Male,38.0,white,Death,1,Possessed Weapon
+534,Mission PoliceDepartment,114 Sunrise Lane,Mission,Hidalgo,785726,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,1/9/2017,6:22 AM,Male,49.0,hispanic,Injury,1,Possessed Weapon
+535,Mission PoliceDepartment,1300 Aldea Apt.#20,Mission,Hidalgo,785726,Emergency Call orRequest forAssistance,7/21/2017,9:25 PM,Male,42.0,hispanic,Death,2,Possessed Weapon
+536,Missouri City PoliceDept.,727 Cravens Rd,Missouri City,Fort Bend,774896,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Active Shooter,8/20/2018,2:00 AM,Female,29.0,hispanic,Death,1,Possessed Weapon
+537,Missouri City PoliceDept.,1800 fm 1092,Missouri City,Fort Bend,774596,Emergency Call orRequest forAssistance,9/9/2018,10:00 PM,Female,39.0,black,Death,1,Possessed Weapon
+538,Monahans PoliceDept.,300 blk north Brucestreet,Monahans,Ward,797566,Emergency Call orRequest forAssistance,3/9/2019,8:00 AM,Male,30.0,black,Death,1,Possessed Weapon
+539,Monahans PoliceDept.,SH 18 @ FM 1233,,Ward,797566,Emergency Call orRequest forAssistance; TrafficStop,9/7/2018,7:40 AM,Male,24.0,hispanic,Death,4,No Weapon
+54,Austin PoliceDepartment,4507 Avenue G,Austin,Travis,787516,Emergency Call orRequest forAssistance,1/26/2018,3:40 AM,Male,23.0,white,Death,1,Possessed Weapon
+540,Monahans PoliceDept.,Sh18 at 1233,,Ward,797566,Emergency Call orRequest forAssistance; TrafficStop,9/7/2018,7:40 AM,Male,18.0,hispanic,Injury,4,No Weapon
+541,MontgomeryCounty ConstablePrecinct 4,1101 KingwoodDrive,Kingwood,Harris,773396,Traffic Stop; OtherSpecify type of call:Evading in a motor vehicle,10/16/2017,2:33PM,Male,31.0,white,Death,1,Possessed Weapon
+542,MontgomeryCounty Sheriff'sDept.,14680 Ashway,Speldora,Montgomery,773726,Hostage/Barricade/OtherEmerg Situation,3/27/2016,,Male,33.0,white,Death,1,Possessed Weapon
+543,MontgomeryCounty Sheriff'sDept.,11960 Canal Street,WIllis,Montgomery,773186,Emergency Call orRequest forAssistance,7/11/2018,3:26 PM,Female,45.0,white,Death,2,Possessed Weapon
+544,MontgomeryCounty Sheriff'sDept.,1501 ResearchForest Drive,Spring,Montgomery,773806,OtherSpecify type of call:Aggravated Robbery in progress,11/22/2016,8:40PM,Male,17.0,black,Death,1,Possessed Weapon
+545,MontgomeryCounty Sheriff'sOffice,74 ChestnutMeadow,Conroe,Montgomery,773846,Emergency Call orRequest forAssistance,2/22/2017,5:51 AM,Male,44.0,black,Death,2,Possessed Weapon
+547,NacogdochesCounty Sheriff'sOffice,7318 FM 2259,Nacogdoches,Nacogdoches,759646,Hostage/Barricade/OtherEmerg SituationPeace Officer Involved Injuries or Death Report :: Page 3 of 3,5/9/2016,,Male,29.0,white,Death,2,Possessed Weapon
+548,NacogdochesPolice Department,1285 Lightfoot Rd.,Moffett,Angelina,759016,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,4/24/2017,8:37 PM,Male,46.0,white,Death,1,Possessed Weapon
+549,Needville PoliceDepartment,6000 Blk Baker Rd,Needville,Fort Bend,774616,Traffic Stop; OtherSpecify type of call:Assault with injuries (disturbance),6/17/2018,3:30 AM,Male,36.0,white,Injury,1,No Weapon
+55,Austin PoliceDepartment,600 blk Trinity St.,Austin,Travis,787016,Emergency Call orRequest forAssistance,5/7/2017,3:39 AM,Male,24.0,black,Death,2,Possessed Weapon
+550,North Richland HillsPolice Dept.,5700 Caracus Drive,North Richland Hills,Tarrant,761806,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Suicidal Person,1/14/2019,9:00 PM,Male,47.0,hispanic,Injury,3,Possessed Weapon
+551,Nueces CountySheriff's Dept.,14601 Red RiverDrive,Corpus Christi,Nueces,784106,OtherSpecify type of call:Reports of shots heard and yelling,12/21/2015,,Male,21.0,white,Injury,1,Possessed Weapon
+553,Odessa PoliceDepartment,3001 E. BusinessLoop 20,Odessa,Ector,797616,Execution of aWarrant,4/1/2016,,Male,38.0,hispanic,Death,1,Possessed Weapon
+554,Odessa PoliceDepartment,1209 Douglas Dr.,Odessa,Ector,797626,Emergency Call orRequest forAssistance; Other,3/10/2016,,Male,50.0,white,Death,1,Possessed Weapon
+556,Odessa PoliceDept.,1503 E. 6th St,Odessa,Ector,797616,Emergency Call orRequest forAssistance,12/2/2018,11:46AM,Male,49.0,hispanic,Injury,1,Possessed Weapon
+557,Odessa PoliceDept.,1025 Custer Ave.,Odessa,Ector,797616,Execution of aWarrant,12/23/2015,,Male,27.0,hispanic,Injury,1,Possessed Weapon
+56,Austin PoliceDepartment,11300 blk LongWinter Dr.,Austin,Travis,787546,Emergency Call orRequest forAssistance,5/2/2017,12:03 PM,Male,20.0,hispanic,Death,1,Possessed Weapon
+560,Palestine PoliceDepartment,3089 ACR 359,Palestine,Anderson,758036,Traffic Stop,2/23/2018,11:23AM,Male,31.0,white,Injury,1,Possessed Weapon
+561,Panola CountySheriff's Office,West Davies St.,Tatum,Rusk,756916,Traffic Stop; OtherSpecify type of call:UUMV Suspect was operating a stolen vehicle,2/21/2017,12:40AM,Male,27.0,white,Injury,2,No Weapon
+562,Paris Police Dept.,1907 Lamar,Paris,Lamar,754606,"Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Uniformed Patrol Officers were dispatched to 1907 Lamar Avenue in reference to a stabbing. Upon arrival,Officers found a female victim outside the motel with chest wounds. Officers learned the suspect in thestabbing was the husband of the victim, and he was inside the motel room with the victim™s children. Officersestablished a perimeter near the front door of the motel room entrance to begin verbal negotiation with thesuspect. The suspect extended his arm out a window of the motel room holding a black handgun and pointedit at the officers, which resulted in the officers to retreat to cover behind parked vehicles. After officersobtained cover the suspected exited and re-entered the motel room holding a gun while taunting officers toshoot him. The armed suspect ultimately exited the motel room and walked hurriedly in the direction ofofficers pointing the gun at them, which resulted in officers to discharge their weapons striking the suspectonce.",10/20/2018,10:15PM,Male,35.0,white,Death,3,Possessed Weapon
+563,Parker CountySheriff's Dept.,101 Couch Ct.,Springtown,Parker,760826,OtherSpecify type of call:Investigation of criminal activity,9/4/2015,,Male,36.0,white,Death,2,Possessed Weapon
+564,Parker CountySheriff's Office,154 W. Reno Rd,Azle,Parker,760206,Hostage/Barricade/OtherEmerg Situation,2/18/2016,,Male,32.0,hispanic,Death,2,Possessed Weapon
+565,Pasadena PoliceDepartment,4010 Red Bluff,Pasadena,Harris,775036,Execution of aWarrant,4/30/2018,11:41AM,Male,32.0,white,Injury,1,No Weapon
+566,Pasadena PoliceDepartment,1200 Spooner St.,Pasadena,Harris,775026,Traffic Stop,3/29/2018,5:30 PM,Male,44.0,hispanic,Death,1,Possessed Weapon
+567,Pasadena PoliceDepartment,1124 London Street,Pasadena,Harris,775066,Execution of aWarrant,10/19/2016,8:00PM,Male,52.0,hispanic,Injury,1,Possessed Weapon
+568,Pasadena PoliceDept.,2400 Jana Ln,Pasadena,Harris,775036,Traffic Stop,11/21/2018,7:32PM,Male,34.0,white,Death,1,No Weapon
+569,Pearland PoliceDepartment,1919 Main,Pearland,Brazoria,775816,Emergency Call orRequest forAssistance,6/5/2018,5:22 PM,Male,56.0,hispanic,Death,2,Possessed Weapon
+57,Austin PoliceDepartment,6321 Parliament Dr.A,Austin,Travis,787246,Emergency Call orRequest forAssistance,4/7/2017,10:47 PM,Male,31.0,black,Injury,4,Possessed Weapon
+570,Pecos CountySheriff's Office,US Hwy 285 SouthMile Marker 463,Fort Stockton,Pecos,797356,"OtherSpecify type of call:Felony Evading, Attempted Capital Murder",1/28/2017,3:19 PM,Male,26.0,hispanic,Death,3,Possessed Weapon
+571,Pelican Bay PoliceDepartment,13120 LibertySchool Rd.,,Tarrant,760206,Traffic Stop,10/31/2017,9:48PM,Male,22.0,white,Injury,1,Possessed Weapon
+572,Perryton PoliceDepartment,920 S. Fordham (inthe street),,Ochiltree,790706,Emergency Call orRequest forAssistance,5/2/2016,,Male,21.0,white,Injury,1,Possessed Weapon
+573,Pharr PoliceDepartment,221 East Emil,Pharr,Hidalgo,785776,OtherSpecify type of call:Domestic Disturbance,12/20/2016,4:25AM,Male,46.0,hispanic,Death,2,Possessed Weapon
+574,Pilot Point PoliceDept.,531 East DivisionStreet,Pilot Point,Denton,762586,Emergency Call orRequest forAssistance,7/27/2018,11:15AM,Male,32.0,white,Death,1,Possessed Weapon
+575,Plano PoliceDepartment,6400 Preston Rd.,Plano,Collin,750246,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,6/12/2017,5:23 PM,Male,63.0,hispanic,Death,1,Possessed Weapon
+576,Plano PoliceDepartment,1712 West SpringCreek Pkwy,Plano,Collin,750236,Emergency Call orRequest forAssistance,10/10/2017,9:05PM,Male,32.0,white,Death,1,Possessed Weapon
+577,Plano Police Dept.,4840 E. PlanoParkway,Plano,Collin,750746,OtherSpecify type of call:Accidental discharge ricochet during range activities resulting in minor injury,9/3/2015,,Male,55.0,white,Injury,1,Possessed Weapon
+578,Ponder Police Dept.,600 block ofRobinson Road,Ponder,Denton,762596,OtherSpecify type of call:Officer initiated call,9/27/2015,,Male,41.0,hispanic,Death,1,Possessed Weapon
+579,Port Arthur PoliceDepartment,3700 Highway 365,Port Arthur,Jefferson,776426,OtherSpecify type of call:Aggravated Robbery; suspect armed with a handgun who has fired one round inside the place being robbed,6/9/2016,,Male,52.0,black,Death,1,Possessed Weapon
+58,Austin PoliceDepartment,7600 blk ManchacaRd,Austin,Travis,787456,Emergency Call orRequest forAssistance,2/22/2017,5:58 PM,Female,30.0,black,Death,1,Possessed Weapon
+580,Port Arthur PoliceDept.,1600 KansasAvenue,Port Arthur,Jefferson,776406,OtherSpecify type of call:Pedestrian stop,12/28/2018,4:20PM,Male,35.0,black,Death,1,Possessed Weapon
+581,Port Arthur PoliceDept.,942 West GulfwayDr.,Port Arthur,Jefferson,776406,OtherSpecify type of call:Burglary of the officers home,9/24/2015,,Male,52.0,black,Injury,1,Possessed Weapon
+582,Potter CountySheriff's Dept.,5201 Royce,Amarillo,Randall,791106,"OtherSpecify type of call:Suspect and accomplice were burglarizing the victim's shed at 5:00 am. Victim confronted the suspect and hisaccomplice. Victim was armed with a pistol. The suspect rushed the victim and the victim fired his pistol once,",11/21/2015,,Male,45.0,hispanic,Injury,1,No Weapon
+583,Progreso PoliceDepartment,1122 Encino Street,Progreso,Hidalgo,785796,Emergency Call orRequest forAssistance,12/24/2017,9:10PM,Male,46.0,hispanic,Death,1,Possessed Weapon
+584,Randall CountySheriff's Dept.,14800 XIT Trail,Amarillo,Randall,791186,Hostage/Barricade/OtherEmerg Situation,10/2/2015,,Male,29.0,white,Death,2,Possessed Weapon
+585,Real CountySheriff's Office,206 East 4th Street,Camp Wood,Real,788336,Emergency Call orRequest forAssistance,1/2/2018,6:20 AM,Female,30.0,white,Death,1,Possessed Weapon
+586,Red River CountySheriff,500 N. Cedar,ClarksvilleZip Code:75426Agency Phone Number:903-427-3838Director Salutation:SheriffDirector First Name:JamesDirector Middle Name:Director Last Name:CaldwellName of Person FillingOut Form:Quintin WallaceEmail of Person FillingOut Form:quintin.wallace@co.red-river.tx.usInjured or Deceased Information1. What was the injured ordeceased's gender?:Male2. What was the injured ordeceased's age at time ofincident?:563. What was the injured ordeceased's race/ethnicity?(Mark only one):Anglo or WhiteIncident DetailsPeace Officer Involved Injuries or Death Report :: Page 2 of 24. Date of Incident:3/2/2018 11:17 AM5. Location of IncidentStreet Address:500 N. CedarCity:Clarksville,Red River,754266,Emergency Call orRequest forAssistance,3/2/2018,11:17 AM,Male,56.0,white,Death,1,Possessed Weapon
+587,Refugio CountySheriff,Address redactedas it was officer'shome address,Victoria,Victoria,789046,OtherSpecify type of call:Decedent broke into the officer's residence,4/16/2016,4:26 AM,Male,27.0,white,Injury,7,No Weapon
+59,Austin PoliceDepartment,6000 block CougarDrive,Austin,Travis,787456,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,6/14/2016,5:05 AM,Male,19.0,hispanic,Injury,1,Possessed Weapon
+590,Rockwall CountySheriff's Dept.,972 T.L. TownsendDrive,RockwallZip Code:75087Agency Phone Number:972-204-7001Director Salutation:SheriffDirector First Name:HaroldDirector Middle Name:WDirector Last Name:EavensonName of Person Filling OutForm:Lt. Greg WelchEmail of Person Filling OutForm:gwelch@co.rockwall.tx.usInjured or Deceased Information1. What was the injured ordeceased's gender?:Male2. What was the injured ordeceased's age at time ofincident?:493. What was the injured ordeceased's race/ethnicity?(Mark only one):Anglo or WhiteIncident DetailsPeace Officer Involved Injuries or Death Report :: Page 2 of 34. Date of Incident:9/30/20155. Location of IncidentStreet Address:972 T.L. TownsendDriveCity:Rockwall,Rockwall,750876,OtherSpecify type of call:Accidental discharge,9/30/2015,,Male,49.0,white,Injury,1,Possessed Weapon
+591,Rockwall CountySheriff's Office,600 Blk State Hwy205,McLendon-Chisholm,Rockwall,750326,Traffic Stop,8/5/2016,2:36 AM,Male,45.0,white,Injury,1,Possessed Weapon
+592,Rockwall PoliceDepartment,325 LakemeadowsDrive,Rockwall,Rockwall,750876,Emergency Call orRequest forAssistance,9/21/2017,1:01 PM,Male,38.0,hispanic,Death,1,Possessed Weapon
+593,Round Rock PoliceDepartment,1900 Apache Trl,Round Rock,Williamson,786656,OtherSpecify type of call:Suspicious Incident,1/6/2018,3:46 AM,Male,21.0,hispanic,Death,1,Possessed Weapon
+594,Saginaw PoliceDepartment,1000 N. OldDecatur Rd.,Saginaw,Tarrant,761796,Emergency Call orRequest forAssistance,1/30/2016,,Male,25.0,white,Death,1,No Weapon
+595,Saint Jo PoliceDepartment,208 N. SandersStreet,Myra,Cooke,762536,Emergency Call orRequest forAssistance; TrafficStop; OtherSpecify type of call:Pursuit,8/23/2016,11:02PM,Male,49.0,white,Death,1,Possessed Weapon
+596,Sam Houston St.University PoliceDept.,1312 Smither Drive,Huntsville,Walker,773406,OtherSpecify type of call:Accidental discharge of off duty weapon,12/26/2015,,Female,23.0,white,Injury,1,No Weapon
+597,San Angelo PoliceDepartment,62 E. 40th,San Angelo,Tom Green,769036,Emergency Call orRequest forAssistance,10/12/2016,10:38AM,Male,53.0,white,Injury,1,Possessed Weapon
+598,San Angelo PoliceDepartment,1205 E. 21st Street,San Angelo,Tom Green,769036,Emergency Call orRequest forAssistance,1/13/2017,11:40AM,Male,67.0,white,Injury,1,Possessed Weapon
+599,San Antonio PoliceDepartment,8500 JonesMaltsberger,San Antonio,Bexar,782166,Emergency Call orRequest forAssistance,4/7/2018,9:36 PM,Male,48.0,white,Injury,1,Possessed Weapon
+6,Allen PoliceDepartment,706 S. Jupiter Road,Allen,Collin,750026,OtherSpecify type of call:Suspicious person call - two (2) officers involved,1/1/2017,12:29 AM,Male,21.0,other,Death,2,Possessed Weapon
+60,Austin PoliceDepartment,6600 S MoPac,Austin,Travis,787496,Emergency Call orRequest forAssistance,4/22/2016,,Male,29.0,white,Death,2,Possessed Weapon
+600,San Antonio PoliceDepartment,5814 Shadow Glen#4,San Antonio,Bexar,782386,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,11/20/2016,5:34AM,Male,24.0,hispanic,Death,1,Possessed Weapon
+601,San Antonio PoliceDepartment,100 Queretaro,San Antonio,Bexar,782076,Emergency Call orRequest forAssistance,4/1/2018,2:20 PM,Male,34.0,white,Injury,1,No Weapon
+602,San Antonio PoliceDepartment,719 Briggs,San Antonio,Bexar,782176,Emergency Call orRequest forAssistance,10/26/2017,4:48PM,Male,37.0,hispanic,Injury,1,Possessed Weapon
+603,San Antonio PoliceDepartment,746 NW Loop 410,San Antonio,Bexar,782166,Emergency Call orRequest forAssistance,1/25/2018,6:20 PM,Male,19.0,hispanic,Death,1,Possessed Weapon
+604,San Antonio PoliceDepartment,Bluffcircle,San Antonio,Bexar,782166,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,1/27/2018,3:22 PM,Female,43.0,white,Death,1,Possessed Weapon
+605,San Antonio PoliceDepartment,111 Dallas,San Antonio,Bexar,782056,Emergency Call orRequest forAssistance,8/30/2017,8:56 PM,Male,25.0,black,Injury,1,Possessed Weapon
+606,San Antonio PoliceDepartment,14407 Briarpine,San Antonio,Bexar,782476,OtherSpecify type of call:Disturbance with a gun,8/17/2017,1:06 AM,Male,18.0,hispanic,Injury,1,Possessed Weapon
+607,San Antonio PoliceDepartment,3300 W. Woodlawn,San Antonio,Bexar,782286,Traffic Stop,7/28/2017,2:42 AM,Male,19.0,hispanic,Injury,1,Possessed Weapon
+608,San Antonio PoliceDepartment,5421 Little Creek,San Antonio,Bexar,782426,OtherSpecify type of call:Family Disturbance,8/7/2017,7:57 PM,Male,36.0,hispanic,Injury,2,No Weapon
+609,San Antonio PoliceDepartment,1822 Plaza Del Sol,San Antonio,Bexar,782076,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:,7/17/2017,8:10 AM,Male,37.0,hispanic,Death,1,Possessed Weapon
+61,Austin PoliceDepartment,508 West Ave.,Austin,Travis,787026,OtherSpecify type of call:Observed the supect being chased by another male,4/3/2016,,Male,25.0,white,Death,1,Possessed Weapon
+610,San Antonio PoliceDepartment,6130 Ingram,San Antonio,Bexar,782386,Emergency Call orRequest forAssistance,7/26/2017,12:52AM,Male,26.0,hispanic,Death,1,Possessed Weapon
+611,San Antonio PoliceDepartment,100 W. Evergreen,San Antonio,Bexar,782126,OtherSpecify type of call:Pedestrain stop,6/29/2017,4:24 PM,Male,34.0,white,Death,1,Possessed Weapon
+612,San Antonio PoliceDepartment,200 N. ZarzamoraStreet,San Antonio,Bexar,782076,OtherSpecify type of call:On-sight assault in progress,4/20/2017,9:40 PM,Male,55.0,hispanic,Death,1,Possessed Weapon
+613,San Antonio PoliceDepartment,420 W. Magnolia #4,San Antonio,Bexar,782126,Emergency Call orRequest forAssistance,4/15/2017,3:26 AM,Male,57.0,hispanic,Injury,1,Possessed Weapon
+614,San Antonio PoliceDepartment,1810 Santa Monica,San Antonio,Bexar,782016,Emergency Call orRequest forAssistance,4/8/2017,3:55 AM,Male,42.0,hispanic,Death,1,Possessed Weapon
+615,San Antonio PoliceDepartment,716 Vickers,San Antonio,Bexar,782116,Execution of aWarrant,2/16/2017,10:37AM,Male,48.0,hispanic,Death,1,Possessed Weapon
+616,San Antonio PoliceDepartment,102 Olga,San Antonio,Bexar,782376,Emergency Call orRequest forAssistance,7/23/2016,3:46 AM,Male,34.0,hispanic,Death,1,Possessed Weapon
+617,San Antonio PoliceDepartment,2434 S.W. Loop410,San Antonio,Bexar,78227-25436,Execution of aWarrant,5/26/2016,11:31PM,Male,45.0,hispanic,Death,2,Possessed Weapon
+618,San Antonio PoliceDepartment,2600 SE Military,San Antonio,Bexar,782236,Emergency Call orRequest forAssistance,5/5/2016,,Male,32.0,hispanic,Injury,1,Possessed Weapon
+619,San Antonio PoliceDepartment,321 E. Pyron,San Antonio,Bexar,782146,Emergency Call orRequest forAssistance,3/16/2016,,Male,32.0,hispanic,Death,2,Possessed Weapon
+62,Austin PoliceDepartment,9504 N IH 35,Austin,Travis,787516,Emergency Call orRequest forAssistance,3/20/2016,,Male,34.0,black,Injury,1,Possessed Weapon
+620,San Antonio PoliceDepartment,10362 Sahara Drive,San Antonio,Bexar,782166,Execution of aWarrant,2/4/2016,,Male,36.0,black,Death,1,No Weapon
+621,San Antonio PoliceDepartment,223 Rainbow Drive,San Antonio,Bexar,782116,Emergency Call orRequest forAssistance,10/27/2016,2:46PM,Male,33.0,black,Death,1,Possessed Weapon
+622,San Antonio PoliceDepartment,1063 NacogdochesRoad,San Antonio,Bexar,782176,Emergency Call orRequest forAssistance,10/24/2016,1:36PM,Male,58.0,hispanic,Injury,1,Possessed Weapon
+623,San Antonio PoliceDepartment,5639 Old Hwy 90 W,San Antonio,Bexar,782276,Emergency Call orRequest forAssistance,1/17/2016,,Male,27.0,white,Death,1,Possessed Weapon
+624,San Antonio PoliceDepartment,10511 BallerinaCourt,San Antonio,Bexar,782176,OtherSpecify type of call:Suicide in Progress,10/10/2016,6:43AM,Male,38.0,hispanic,Injury,1,Possessed Weapon
+625,San Antonio PoliceDepartment,726 Humboldt,San Antonio,Bexar,782116,Emergency Call orRequest forAssistance,9/23/2016,6:00 PM,Male,30.0,hispanic,Death,1,Possessed Weapon
+626,San Antonio PoliceDepartment,3820 S. PresaStreet,San Antonio,Bexar,782076,OtherSpecify type of call:Stolen Vehicle/Aggravated Robbery Apprehension,9/17/2016,6:15 PM,Male,23.0,hispanic,Injury,3,Possessed Weapon
+627,San Antonio PoliceDepartment,9603 IH 35 N.,San Antonio,Bexar,782336,Execution of aWarrant,9/10/2016,,Male,37.0,hispanic,Injury,1,Possessed Weapon
+63,Austin PoliceDepartment,12000 blockNature's Bend,Austin,Travis,787536,Emergency Call orRequest forAssistance,2/8/2016,,Male,17.0,black,Death,1,No Weapon
+632,San Antonio PoliceDepartment,125 E. Houston,San Antonio,Bexar,782056,Emergency Call orRequest forAssistance,4/24/2018,7:16 AM,Male,44.0,hispanic,Death,2,Possessed Weapon
+633,San Antonio PoliceDepartment,600 S. Pine,San Antonio,Bexar,782036,OtherSpecify type of call:Disturbance with a gun,5/14/2018,6:42 PM,Male,36.0,hispanic,Death,1,Possessed Weapon
+634,San Antonio PoliceDept.,300 E. Commerce,San Antonio,Bexar,782056,Emergency Call orRequest forAssistance,11/7/2018,12:54AM,Male,29.0,other,Death,2,Possessed Weapon
+635,San Antonio PoliceDept.,217 Roberts,San Antonio,Bexar,782076,Emergency Call orRequest forAssistance,10/17/2018,1:22AM,Male,27.0,black,Injury,1,Possessed Weapon
+636,San Antonio PoliceDept.,217 Roberts,San Antonio,Bexar,782076,Emergency Call orRequest forAssistance,10/17/2018,1:22AM,Male,18.0,black,Death,1,No Weapon
+637,San Antonio PoliceDept.,217 Roberts,San Antonio,Bexar,782076,Emergency Call orRequest forAssistance,10/17/2018,1:22AM,Male,18.0,black,Death,1,No Weapon
+638,San Antonio PoliceDept.,1618 N. Zarzamora,San Antonio,Bexar,782016,Emergency Call orRequest forAssistance,9/6/2018,1:50 AM,Male,41.0,hispanic,Injury,1,No Weapon
+639,San Antonio PoliceDept.,5910 Royal Gate,San Antonio,Bexar,782426,OtherSpecify type of call:Call for a disturbance / yelling / items being thrown in apartment #320,8/31/2018,11:27AM,Male,52.0,hispanic,Death,1,Possessed Weapon
+64,Austin PoliceDepartment,744 W. WilliamCannon Drive,Austin,Travis,787456,Emergency Call orRequest forAssistance,10/16/2016,4:45AM,Female,26.0,white,Death,2,Possessed Weapon
+641,San Antonio PoliceDept.,9440 IH-10 West,San Antonio,Bexar,782296,OtherSpecify type of call:Off-duty road rage contact.,5/29/2018,9:30 PM,Female,19.0,black,Injury,1,No Weapon
+642,San Antonio PoliceDept.,9440 IH-10 West,San Antonio,Bexar,782296,OtherSpecify type of call:Off-duty road rage type contact.,5/29/2018,9:30 PM,Male,26.0,black,Injury,1,Possessed Weapon
+643,San Antonio PoliceDept.,4001 Sun HarbourDr.,San Antonio,Bexar,782446,OtherSpecify type of call:Patrol by as requested by homeowner,11/17/2015,,Male,23.0,white,Injury,1,Possessed Weapon
+645,San Antonio PoliceDept.,IH 10 East and FM464,Seguin,Guadalupe,781556,Traffic Stop,3/28/2019,10:37PM,Male,43.0,hispanic,Death,1,Possessed Weapon
+646,San Antonio PoliceDept.,11703 Huebner Rd,San Antonio,Bexar,782076,OtherSpecify type of call:Disturbance with a gun,3/20/2019,5:20 PM,Female,26.0,white,Death,1,Possessed Weapon
+647,San Antonio PoliceDept.,1500 S. Olive @400 Westfall Ave,San Antonio,Bexar,782046,OtherSpecify type of call:Felony stop of robbery suspects,3/4/2019,2:00 PM,Male,17.0,hispanic,Death,2,Possessed Weapon
+648,San Antonio PoliceDept.,11707 Spring Dale,San Antonio,Bexar,782496,Emergency Call orRequest forAssistance,3/4/2019,2:49 AM,Male,27.0,hispanic,Death,1,Possessed Weapon
+649,San Antonio PoliceDept.,5039 HamiltonWolfe,San Antonio,Bexar,782406,Traffic Stop,2/12/2019,1:26 AM,Male,17.0,asian,Injury,1,Possessed Weapon
+65,Austin PoliceDepartment,4022 GreenhillPlace,Austin,Travis,787596,Emergency Call orRequest forAssistance,12/18/2017,10:42AM,Male,59.0,white,Injury,1,Possessed Weapon
+651,San Antonio PoliceDept.,1700 Block ofPleasanton Road,San Antonio,Bexar,782076,Emergency Call orRequest forAssistance,1/3/2019,8:45 AM,Male,39.0,hispanic,Death,1,Possessed Weapon
+653,San Antonio PoliceDept.,Loop 410 NE atAustin Hwy,San Antonio,Bexar,782186,Emergency Call orRequest forAssistance,1/2/2019,2:20 PM,Male,33.0,white,Death,1,Possessed Weapon
+654,San Benito PoliceDept.,Ranch Park Road,San Benito,Cameron,785866,Emergency Call orRequest forAssistance,12/7/2018,3:30 PM,Male,21.0,hispanic,Death,3,Possessed Weapon
+655,San Diego PoliceDept.,400 W. North Street,San Diego,Duval,783846,Emergency Call orRequest forAssistance,7/20/2018,1:15 AM,Male,34.0,hispanic,Injury,1,Possessed Weapon
+656,San Jacinto CountySheriff's Dept.,6899 Hwy 190,Point Blank,San Jacinto,773646,Traffic Stop,8/6/2017,11:00 PM,Male,48.0,american indian,Injury,1,Possessed Weapon
+658,San Marcos PoliceDepartment,177 Valero Street,San Marcos,Hays,786666,Execution of aWarrant,12/4/2017,2:25 PM,Male,51.0,white,Injury,1,Possessed Weapon
+659,San Marcos PoliceDept.,1302 W. HopkinsSt.,San Marcos,Hays,786666,Emergency Call orRequest forAssistance; TrafficStop,1/4/2019,9:35 PM,Male,27.0,hispanic,Death,2,Possessed Weapon
+66,Austin PoliceDepartment,4201 MonterreyOaks Blvd.,Austin,Travis,787496,Emergency Call orRequest forAssistance,9/15/2016,12:52AM,Male,34.0,white,Death,2,Possessed Weapon
+661,Seagoville PoliceDept.,607 Fran Street,Seagoville,Dallas,751596,Emergency Call orRequest forAssistance,11/28/2015,,Male,50.0,white,Death,1,Possessed Weapon
+663,Seguin PoliceDepartment,US Hwy 90,Kingsbury,Guadalupe,786386,Emergency Call orRequest forAssistance,4/26/2016,,Male,44.0,white,Death,1,Possessed Weapon
+664,Shelby CountySheriff's Office,2927 CR 2798,Shelbyville,Shelby,759736,Emergency Call orRequest forAssistance,3/6/2018,10:34 PM,Male,70.0,white,Death,1,Possessed Weapon
+665,Shenandoah PoliceDept.,8787,Shenandoah ParkDrive,Montgomery,773856,Emergency Call orRequest forAssistance,4/20/2019,12:43AM,Male,51.0,white,Injury,1,No Weapon
+666,Shenandoah PoliceDept.,8787 ShenandoahPark Drive,Shenandoah,Montgomery,773856,Emergency Call orRequest forAssistance,4/20/2019,12:43AM,Male,37.0,black,Injury,1,Possessed Weapon
+667,Silsbee PoliceDepartment,972 FM 92,Silsbee,Hardin,776566,Emergency Call orRequest forAssistance; TrafficStop,5/26/2018,4:20 AM,Male,51.0,white,Death,1,Possessed Weapon
+668,Smith CountySheriff's Office,13070 CR 411,Tyler,Smith,757066,Emergency Call orRequest forAssistance,12/9/2015,,Male,25.0,white,Injury,1,Possessed Weapon
+669,Snyder Police Dept.,3600 JacksboroAve.,Snyder,Scurry,795496,OtherSpecify type of call:Suspicious male outside of a residence knocking on the door.,2/7/2019,6:33 PM,Male,38.0,white,Death,1,No Weapon
+67,Austin PoliceDepartment,12501 Tech RidgeBlvd,Austin,Travis,787536,Emergency Call orRequest forAssistance,9/5/2016,9:43 AM,Male,35.0,hispanic,Death,2,Possessed Weapon
+670,Sonora Police Dept.,417 Hwy 277 N.,Sonora,Sutton,769506,Emergency Call orRequest forAssistance,10/8/2015,,Male,39.0,white,Injury,2,Possessed Weapon
+671,South HoustonPolice Department,707 Ave. J,South Houston,Harris,775876,OtherSpecify type of call:Suspicious Person,12/10/2016,9:55AM,Male,23.0,hispanic,Injury,1,No Weapon
+672,Spur PoliceDepartment,520 N. Calvert,Spur,Dickens,793706,Execution of aWarrant,4/8/2016,,Male,32.0,hispanic,Injury,1,Possessed Weapon
+673,Spur PoliceDepartment,520 N. Calvert,Spur,Dickens,793706,OtherSpecify type of call:Criminal Trespass,11/10/2017,8:15PM,Male,34.0,hispanic,Injury,1,Possessed Weapon
+674,Stratford PoliceDepartment,100 S. Poplar,Stratford,Sherman,790846,Traffic Stop,2/21/2018,7:30 PM,Male,24.0,black,Death,1,Possessed Weapon
+675,Sudan PoliceDepartment,200 Wilson St.,Sudan,Lamb,793716,OtherSpecify type of call:Heard shots being fired while conducting a traffic stop,6/22/2018,11:55PM,Male,,white,Injury,1,Possessed Weapon
+676,Sunset ValleyPolice Dept.,5601 Brodie Lane,Sunset Valley,Travis,787456,OtherSpecify type of call:Burglar Alarm Call,7/29/2018,4:00 AM,Male,25.0,hispanic,Injury,1,No Weapon
+677,Sweetwater PoliceDepartment,2000 Lamar Street,Sweetwater,Nolan,795566,Emergency Call orRequest forAssistance; Other,1/2/2016,,Male,54.0,white,Death,1,Possessed Weapon
+679,Swisher CountySheriff's Office,406 W. 2nd Street,Kress,Swisher,790526,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,8/3/2017,9:32 PM,Male,33.0,white,Death,1,Possessed Weapon
+680,Tarrant CountySheriff's Office,3064 Las VegasTrail,Fort Worth,Tarrant,761166,Execution of aWarrant,10/27/2016,12:30AM,Male,24.0,white,Injury,1,Possessed Weapon
+681,Taylor CountySheriff's Office,145 FM 2405,Winters,Runnels,795676,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,2/2/2018,11:00 AM,Male,81.0,white,Death,1,Possessed Weapon
+682,Taylor CountySheriff's Office,Oldham Lane,Abilene,Taylor,796026,Execution of aWarrant,6/10/2017,11:15PM,Male,60.0,white,Death,1,Possessed Weapon
+683,Temple PoliceDepartment,"2602 S. 39th Street,Apt. 607",Temple,Bell,765046,Emergency Call orRequest forAssistance,6/9/2018,4:38 AM,Male,49.0,white,Death,2,Possessed Weapon
+684,Temple PoliceDepartment,718 S. 15th Street(Attic),,Bell,765016,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,6/4/2017,4:26 AM,Male,35.0,black,Injury,2,Possessed Weapon
+685,Terrell Police Dept.,15187 County Road236,Terrell,Kaufman,751606,Execution of aWarrant,10/23/2015,,Male,64.0,white,Injury,1,Possessed Weapon
+686,Terrell Police Dept.,300 Wall Street,Terrell,Kaufman,751606,Emergency Call orRequest forAssistance,10/31/2015,,Male,28.0,black,Injury,1,Possessed Weapon
+687,Texas DepartmentOf Public Safety,14135 NorthwestFreeway,Houston,Harris,770406,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Aggravated Robbery/Deadly Weapon - In Progress,11/16/2018,9:20PM,Male,19.0,hispanic,Death,2,Possessed Weapon
+688,Texas DepartmentOf Public Safety,8600 Block EastFreeway,Houston,Harris,770296,OtherSpecify type of call:Felony Stop of Aggravated Robbery Suspect in a Stolen Vehicle,8/29/2018,5:45 PM,Male,17.0,black,Death,2,Possessed Weapon
+689,Texas DepartmentOf Public Safety,100 East FawnridgeDr.,Austin,Travis,787536,Traffic Stop,9/8/2018,10:16 PM,Male,21.0,white,Injury,1,Possessed Weapon
+691,Texas DepartmentOf Public Safety,1022 FM 2760,Port Lavaca,Calhoun,779796,Traffic Stop,9/3/2018,6:00 PM,Male,38.0,white,Death,1,Possessed Weapon
+692,Texas DepartmentOf Public Safety,9220 Skillman,Dallas,Dallas,752436,OtherSpecify type of call:Surveillance/Criminal Investigation/Warrant Service,7/24/2018,11:10AM,Male,36.0,black,Injury,1,Possessed Weapon
+693,Texas DepartmentOf Public Safety,TX 16,,Bexar,6,Traffic Stop,12/2/2015,,Male,32.0,hispanic,Death,1,Possessed Weapon
+694,Texas DepartmentOf Public Safety,SH-7 @ TrinityRiver Bridge,Centerville,Leon,758336,Emergency Call orRequest forAssistance,11/16/2015,,Male,28.0,white,Death,1,No Weapon
+695,Texas DepartmentOf Public Safety,"CR190, 1/2 mileWest on FM 651",3 miles South ofCrosbyton,Crosby,793226,Hostage/Barricade/OtherEmerg Situation,10/29/2015,,Male,55.0,white,Injury,1,Possessed Weapon
+696,Texas DepartmentOf Public Safety,800 Deshong Drive,Paris,Lamar,754606,OtherSpecify type of call:Checking or welfare of suspicious person,9/21/2015,,Male,21.0,white,Death,2,No Weapon
+697,Texas Departmentof Public Safety,25534 FM 791 E.,Campbellton,Atascosa,780086,Execution of aWarrant,12/27/2016,9:09PM,Male,36.0,white,Death,4,Possessed Weapon
+698,Texas Departmentof Public Safety,701 S. Gregg Street,Big Spring,Howard,797206,OtherSpecify type of call:Male subject with gun in his pants at the AT&T store,12/27/2016,1:15PM,Male,60.0,hispanic,Injury,1,Possessed Weapon
+699,Texas Departmentof Public Safety,6914 Interstate 10,Baytown,Harris,775216,Emergency Call orRequest forAssistance; TrafficStop,11/22/2016,9:26AM,Male,36.0,black,Death,4,Possessed Weapon
+7,Alvarado PoliceDepartment,Lexie Road,Waxahachie (rural),Ellis,760646,Emergency Call orRequest forAssistance; TrafficStop,1/30/2017,3:50 AM,Male,26.0,white,Injury,1,Possessed Weapon
+700,Texas Departmentof Public Safety,302 West HarrisAvenue,San Angelo,Tom Green,769036,Execution of aWarrant,11/10/2016,1:58PM,Male,41.0,hispanic,Death,1,Possessed Weapon
+701,Texas Departmentof Public Safety,Address redactedas it was officer'shome address,Amarillo,Randall,791096,"OtherSpecify type of call:Walking to patrol car to go on duty in front of his residence. While fully dressed in uniform, trooper interruptedtwo suspects burglarizing his patrol unit.",10/20/2016,6:50AM,Male,18.0,black,Injury,1,No Weapon
+702,Texas Departmentof Public Safety,11411 EastNorthwest Highway,Dallas,Dallas,752186,Execution of aWarrant,6/15/2016,6:00 PM,Male,24.0,black,Injury,1,Possessed Weapon
+703,Texas Departmentof Public Safety,I-45 mpm 149,Madisonville,Madison,778646,Emergency Call orRequest forAssistance,4/19/2016,,Male,19.0,white,Injury,1,Possessed Weapon
+704,Texas Departmentof Public Safety,TX-71,,Llano,786436,Traffic Stop,4/13/2016,,Male,53.0,white,Death,1,Possessed Weapon
+705,Texas Departmentof Public Safety,165 Adams St.,Beckville,Panola,756316,Traffic Stop,2/13/2016,,Male,23.0,black,Death,1,No Weapon
+706,Texas Departmentof Public Safety,20206 StateHighway 274,Kemp,Henderson,751436,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationPeace Officer Involved Injuries or Death Report :: Page 3 of 3,2/10/2016,,Male,56.0,white,Death,3,Possessed Weapon
+707,Texas Departmentof Public Safety,4016 Vista RidgeLane,Alvarado,Johnson,760096,Hostage/Barricade/OtherEmerg SituationPeace Officer Involved Injuries or Death Report :: Page 3 of 3,1/27/2016,,Male,30.0,white,Death,3,Possessed Weapon
+708,Texas Departmentof Public Safety,FM 521,Rosharon,Brazoria,775836,Traffic Stop,3/8/2017,3:42 PM,Male,22.0,hispanic,Injury,1,Possessed Weapon
+709,Texas Departmentof Public Safety,431 AirportFreeway,Euless,Tarrant,760406,Execution of a Warrant,11/27/2017,3:15PM,Male,33.0,white,Injury,1,Possessed Weapon
+71,Austin Police Dept.,6806 ShadywoodDrive,Austin,Travis,787456,Emergency Call orRequest forAssistance,10/5/2018,8:00 PM,Male,48.0,hispanic,Injury,2,Possessed Weapon
+710,Texas Departmentof Public Safety,E. Anaya Rd.,Pharr,Hidalgo,785776,Traffic Stop,10/20/2017,12:50AM,Male,30.0,hispanic,Injury,1,Possessed Weapon
+711,Texas Departmentof Public Safety,"US281/MP554/29.25573,-98.47217",San Antonio,Bexar,782216,Emergency Call orRequest forAssistance,10/18/2017,11:49PM,Male,24.0,hispanic,Injury,1,No Weapon
+712,Texas Departmentof Public Safety,1/4 Mile N ofBledsoe on FM 595,Bledsoe,Cochran,793146,Emergency Call orRequest forAssistance,9/2/2017,12:45 PM,Male,56.0,white,Injury,1,Possessed Weapon
+713,Texas Departmentof Public Safety,6173 Highway 90A,Gonzales,Gonzales,786296,OtherSpecify type of call:Traffic crash one vehicle rollover,6/5/2017,4:09 PM,Male,37.0,black,Death,2,Possessed Weapon
+714,Texas Departmentof Public Safety,FM1752 - North ofFM 898,Unincorporated,Fannin,n/a6,Traffic Stop; OtherSpecify type of call:Vehicle Pursuit with Stolen Vehicle,3/30/2017,12:11AM,Male,27.0,white,Death,1,No Weapon
+715,Texas Departmentof Public Safety,Interstate 20Milepost 329,,Eastland,764486,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,3/24/2017,2:19 PM,Male,26.0,white,Death,1,Possessed Weapon
+716,Texas Departmentof Public Safety,413 E. Godley Ave.,Godley,Johnson,760446,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,3/9/2017,6:38 PM,Male,26.0,white,Injury,4,Possessed Weapon
+717,Texas Departmentof Public Safety,1721 Cottonwood,Gilmer,Upshur,756446,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,1/3/2017,7:51 PM,Male,53.0,white,Death,1,Possessed Weapon
+718,Texas DepartmentOf Public Safety,20402 SH 195,Killeen,Bell,765426,Emergency Call orRequest forAssistance,10/12/2017,2:18PM,Male,39.0,other,Death,1,Possessed Weapon
+72,Austin Police Dept.,8312 N IH 35,Austin,Travis,787536,Emergency Call orRequest forAssistance,9/9/2018,1:28 AM,Male,51.0,white,Injury,2,Possessed Weapon
+722,Texas DepartmentOf Public Safety,39000 Block IH10W,Boerne,Kendall,780066,Traffic Stop,4/11/2019,5:00 PM,Male,34.0,black,Death,1,Possessed Weapon
+725,Texas DepartmentOf Public Safety,1500 Block SouthMaltese,Edinburg,Hidalgo,785396,OtherSpecify type of call:Pursuing a driver who fled the scene of a crash on foot,4/6/2019,8:45 PM,Male,24.0,hispanic,Injury,1,Possessed Weapon
+727,Texas DepartmentOf Public Safety,1200 FM 1337,Morton,Cochran,793466,Traffic Stop,3/27/2019,6:10 PM,Male,40.0,hispanic,Death,10,Possessed Weapon
+729,Texas DepartmentOf Public Safety,6805 LebanonRoad,Frisco,Collin,750346,Traffic Stop,3/29/2019,2:15 PM,Male,42.0,white,Injury,1,Possessed Weapon
+73,Austin Police Dept.,600 blk of TrinityStreet,Austin,Travis,787016,Emergency Call orRequest forAssistance,8/17/2018,1:02 AM,Male,21.0,black,Death,8,Possessed Weapon
+730,Texas DepartmentOf Public Safety,6805 LebanonRoad,Frisco,Collin,750346,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Suspect barricaded himself in his apartment,3/29/2019,2:15 PM,Male,42.0,white,Injury,1,Possessed Weapon
+731,Texas DepartmentOf Public Safety,5615 FM 1488,Magnolia,Montgomery,773546,Traffic Stop,3/23/2019,9:00 PM,Male,50.0,hispanic,Injury,1,No Weapon
+732,Texas DepartmentOf Public Safety,244 Rudledge Rd.,Poteet,Atascosa,780656,Emergency Call orRequest forAssistance,2/22/2019,7:31 PM,Male,36.0,hispanic,Death,1,Possessed Weapon
+733,Texas DepartmentOf Public Safety,22400 WestheimerParkway,Katy,Fort Bend,774506,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Aggravated Robbery/Deadly Weapon - In Progress,2/12/2019,11:00PM,Male,20.0,black,Death,1,Possessed Weapon
+734,Texas DepartmentOf Public Safety,IH 10 MM 446,Junction,Kimble,768496,Traffic Stop,2/20/2019,10:38AM,Male,24.0,black,Death,1,Possessed Weapon
+735,Texas DepartmentOf Public Safety,22400 WestheimerParkway,Katy,Fort Bend,774506,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Aggravated Robbery/Deadly Weapon - In Progress,2/12/2019,11:00PM,Male,19.0,black,Death,1,No Weapon
+736,Texas DepartmentOf Public Safety,4000 West SL 1604North,San Antonio,Bexar,782536,Traffic Stop,1/25/2019,11:02PM,Male,38.0,white,Injury,2,Possessed Weapon
+737,Texas DepartmentOf Public Safety,100 E TarrantStreet,Llano,Llano,786436,"Hostage/Barricade/OtherEmerg SituationSpecify type of call:Aggravated Assault, Barricaded Subject",12/30/2018,8:00AM,Male,49.0,white,Death,1,Possessed Weapon
+738,Texas DepartmentOf Public Safety,IH-10 WB MileMarker 834,Beaumont,Jefferson,777086,Traffic Stop,11/30/2018,10:06PM,Male,46.0,hispanic,Death,1,Possessed Weapon
+739,Texas DepartmentOf Public Safety,12197 FM 2025,Cleveland,San Jacinto,773286,Emergency Call orRequest forAssistance; OtherSpecify type of call:Aggravated Armed Robbery,11/3/2018,8:56 PM,Male,27.0,black,Injury,1,Possessed Weapon
+74,Austin Police Dept.,Mesa Dr/SpicewoodSprings Road,Austin,Travis,787596,Emergency Call orRequest forAssistance,8/3/2018,9:00 AM,Male,37.0,white,Injury,2,Possessed Weapon
+740,Texas DepartmentOf Public Safety,1313 LouisianaStreet,Center,Shelby,759356,Emergency Call orRequest for Assistance;Traffic Stop; Executionof a Warrant;Hostage/Barricade/OtherEmerg Situation; OtherSpecify type of call:See all of the above,12/2/2018,3:46 AM,Male,28.0,hispanic,Death,2,Possessed Weapon
+741,Texas Departmentof Public Safety /Highway Patrol,IH 40 West bound /milepost 378,Not in city limits,,884346,"OtherSpecify type of call:The incident originated as a traffic stop. The driver evaded arrest, causing a pursuit by LE.",10/24/2016,7:05AM,Male,33.0,hispanic,Injury,1,Possessed Weapon
+742,Texas Dept ofPublic Safety,IH-30 Mile Marker95 Westbound,Greenville,Hunt,754016,Traffic Stop,6/19/2018,7:29 PM,Male,30.0,black,Injury,1,Possessed Weapon
+743,Texas Dept ofPublic Safety,9230 Saddle Trail,San Antonio,Bexar,782556,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,3/7/2018,4:50 PM,Female,84.0,hispanic,Death,4,Possessed Weapon
+744,Texas Dept ofPublic Safety,9230 Saddle Trail,San Antonio,Bexar,782556,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,3/7/2018,4:50 PM,Male,60.0,hispanic,Injury,4,Possessed Weapon
+745,Texas Dept ofPublic Safety,IH 10 MP 589,Converse,Bexar,782296,Traffic Stop,2/18/2018,3:17 PM,Male,33.0,hispanic,Death,1,Possessed Weapon
+746,Texas Dept ofPublic Safety,US 70 @ CR 111North,Vernon,Wilbarger,763846,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Specify type of call:,4/26/2018,10:32AM,Male,22.0,black,Death,2,Possessed Weapon
+747,Texas Dept ofPublic Safety,5592 FM 1567 East,Sulphur Springs,Hopkins,754826,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg Situation; OtherSpecify type of call:Vehicle Pursuit/Domestic Violence,5/26/2018,8:57 PM,Male,44.0,white,Injury,2,Possessed Weapon
+749,Texas Parks &Wildlife Dept.,1300 Block FM2760,Port Lavaca,Calhoun,779796,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Calhoun County Sheriff's Office Dispatch contacted the TPWD officer involved and requested assistance witha pursuit involving an armed suspect who was believed to have been involved in a burglary where a victimwas assaulted.,9/3/2018,6:10 PM,Male,38.0,white,Death,1,Possessed Weapon
+75,Austin Police Dept.,700 blk of E. 7thStreet,Austin,Travis,787016,OtherSpecify type of call:On-Site observation of crime of violence.,3/17/2019,2:50 AM,Male,23.0,black,Death,4,Possessed Weapon
+750,The Colony PoliceDepartment,5509 Rice Drive,The Colony,Denton,750566,Emergency Call orRequest forAssistance,12/19/2017,6:06PM,Male,24.0,black,Death,2,Possessed Weapon
+751,Trinity CountySheriff's Office,458 West 2ndStreet,Groveton,Trinity,758456,Hostage/Barricade/OtherEmerg Situation,9/30/2016,,Male,38.0,white,Death,1,Possessed Weapon
+752,University Of NorthTexas Police Dept.,1300 W. Oak St.,Denton,Denton,762016,Emergency Call orRequest forAssistance,12/13/2015,,Male,21.0,white,Death,1,Possessed Weapon
+753,Upshur CountySheriff's Office,1721 Cottonwood,Gilmer,Upshur,756446,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,1/3/2017,8:10 PM,Male,53.0,white,Death,1,Possessed Weapon
+754,Vernon Police Dept.,1500 blk MansardSt,Vernon,Wilbarger,763846,Execution of aWarrant,4/27/2019,4:31 PM,Male,23.0,hispanic,Injury,2,Possessed Weapon
+756,Victoria CountySheriff's Office,1022 FM 2760,Port. Lavaca,Calhoun,779796,Hostage/Barricade/OtherEmerg SituationSpecify type of call:Subject barricaded himself in,9/3/2018,1:10 PM,Male,38.0,white,Death,1,Possessed Weapon
+757,Waco PoliceDepartment,3825 SpeightAvenue,Waco,McLennan,767116,OtherSpecify type of call:Domestic Disturbance Involving Weapons,4/13/2018,9:46 AM,Male,34.0,white,Death,1,Possessed Weapon
+758,Waco PoliceDepartment,N. 23rd & OliveStreets,Waco,McLennan,767086,Traffic Stop,8/1/2017,11:12 AM,Male,37.0,black,Death,3,Possessed Weapon
+759,Waco PoliceDepartment,N. Valley Mills & W.Waco Drive,Waco,McLennan,767106,Hostage/Barricade/OtherEmerg Situation; OtherSpecify type of call:Vehicle pursuit of armed robbery suspect which resulted in traffic crash and barricaded suspect inside hisvehicle.,4/10/2017,10:12PM,Male,37.0,black,Injury,6,Possessed Weapon
+76,Austin Police Dept.,7900 blk E. WilliamCannon,Austin,Travis,787446,Emergency Call orRequest forAssistance,1/29/2019,1:47 AM,Male,27.0,hispanic,Death,2,Possessed Weapon
+760,Waco PoliceDepartment,3000 Block LyleAvenue,Waco,McLennan,767086,Execution of aWarrant,7/11/2016,5:42 PM,Male,32.0,white,Injury,2,Possessed Weapon
+761,Waco Police Dept.,1400 Block SpeightAvenue,Waco,McLennan,767066,Emergency Call orRequest forAssistance,3/1/2019,9:52 PM,Male,50.0,white,Death,1,Possessed Weapon
+762,Waco Police Dept.,4000 N. 19th Street,Waco,McLennan,767086,Emergency Call orRequest forAssistance,10/31/2015,,Male,25.0,white,Injury,1,Possessed Weapon
+763,Waller CountySheriff's Dept.,3304 Ave I,Pattison,Waller,774666,Execution of aWarrant,7/18/2018,5:35 AM,Male,59.0,white,Death,1,Possessed Weapon
+764,Waller CountySheriff's Office,295 I-45 North(Holliday Unit),,Walker,773206,OtherSpecify type of call:Accidential Discharge,4/10/2017,2:45 PM,Male,60.0,white,Injury,1,No Weapon
+765,Waller CountySheriff's Office,37600 WyattChapel,Hempstead,Waller,774456,"Traffic Stop; OtherSpecify type of call:Deputy responded to ""attempt to locate"" capital murder suspect",11/23/2017,6:49PM,Male,32.0,black,Injury,2,Possessed Weapon
+766,Waller CountySheriff's Office,Post Oak & W.Alabama,Houston,Harris,770276,OtherSpecify type of call:Extra job employment,1/24/2018,1:00 AM,Male,35.0,hispanic,Injury,1,Possessed Weapon
+767,Watauga PoliceDepartment,6325 WataugaRoad,Watauga,Tarrant,761486,Emergency Call orRequest forAssistance,8/29/2017,4:36 PM,Female,46.0,white,Death,3,Possessed Weapon
+768,Watauga PoliceDept.,5700 Caracas Dr,North Richland Hills,Tarrant,761806,Emergency Call orRequest forAssistance,1/14/2019,7:19 PM,Male,47.0,white,Injury,2,Possessed Weapon
+769,Watauga PoliceDept.,6505 Wooddale Dr,Watauga,Tarrant,761486,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Investigation/Welfare Check turned Homicide x 2 1 Victim 1 Killed by Officers,4/22/2019,10:25AM,Male,46.0,asian,Death,2,Possessed Weapon
+77,Azle PoliceDepartment,633 Alameda Road,Azle,Tarrant,760206,OtherSpecify type of call:Gunshots being filed,3/6/2016,,Male,51.0,white,Death,1,Possessed Weapon
+770,Weatherford PoliceDepartment,7501 Camp BowieBlvd.,Fort Worth,Tarrant,761166,Execution of aWarrant,2/12/2016,,Male,53.0,white,Death,1,Possessed Weapon
+771,Weatherford PoliceDepartment,111 I-20 West,Weatherford,Parker,760886,Execution of aWarrant,8/30/2016,10:20PM,Male,36.0,white,Death,1,Possessed Weapon
+772,Weatherford PoliceDepartment,2150 Tin Top Road,Weatherford,Parker,760866,Traffic Stop,12/29/2016,9:14PM,Male,49.0,white,Injury,1,Possessed Weapon
+773,Weatherford PoliceDept.,5100 Bethel Road,Weatherford,Parker,760866,Traffic Stop,11/17/2015,,Male,41.0,white,Death,1,Possessed Weapon
+774,White SettlementPolice Dept.,691 Meadow ParkDrive,White Settlement,Tarrant,761086,Warrant,9/11/2018,12:15PM,Male,37.0,hispanic,Death,4,Possessed Weapon
+775,Whitehouse PoliceDept.,919 Peggy Drive,Whitehouse,Smith,757916,Emergency Call orRequest forAssistance,11/19/2018,2:06AM,Male,19.0,white,Injury,1,Possessed Weapon
+776,Wichita Falls PoliceDepartment,2601 Kemp Blvd.,Wichita Falls,Wichita,763096,Hostage/Barricade/OtherEmerg SituationSpecify type of call:,2/2/2017,10:40 PM,Male,18.0,hispanic,Death,1,Possessed Weapon
+777,Wichita Falls PoliceDepartment,2400 W. RathgeberRd.,Wichita Falls,Wichita,763026,Emergency Call orRequest forAssistance,8/9/2017,4:30 PM,Male,28.0,white,Injury,1,Possessed Weapon
+778,Wichita Falls PoliceDept.,2700 CentralFreeway,Wichita Falls,Wichita,763066,Emergency Call orRequest forAssistance,2/3/2019,6:34 AM,Male,45.0,white,Injury,1,Possessed Weapon
+779,Wilson CountySheriff'sDepartment,162 Sandy OakLane,Stockdale,Wilson,781606,Emergency Call orRequest forAssistance,2/28/2016,,Female,45.0,white,Injury,1,Possessed Weapon
+78,Balch SpringsPolice Department,4200 blk ShepherdLane,Balch Springs,Dallas,751806,OtherSpecify type of call:Juvenile Violation(s) alcohol/intoxicated minors,4/30/2017,12:14AM,Male,15.0,black,Death,1,No Weapon
+780,Wilson CountySheriff'sDepartment,US Highway 181 atLoop 1604,Elemendorth,Bexar,781126,Emergency Call orRequest forAssistance; Other,2/27/2016,,Male,23.0,hispanic,Death,3,Possessed Weapon
+781,Wood CountySheriff,134 CR 3955,Mineola,Wood,757736,OtherSpecify type of call:Welfare check of person,9/19/2016,1:59 AM,Male,56.0,white,Death,2,Possessed Weapon
+782,WyliePoliceDepartment,1000 Rockton Dr.,Wylie,Collin,750986,Emergency Call orRequest forAssistance,5/10/2017,10:55PM,Male,46.0,white,Injury,1,Possessed Weapon
+79,Balch SpringsPolice Dept.,11513 Marriott,Balch Springs,Dallas,751806,OtherSpecify type of call:Vicious dog,9/16/2015,,Female,,white,Injury,1,No Weapon
+8,Alvin PoliceDepartment,889 W. Bay AreaBlvd.,Webster,Harris,775986,Execution of aWarrant,11/15/2016,7:00PM,Male,37.0,white,Death,2,Possessed Weapon
+80,Bandera CountySheriff's Office,1070 Rio Ranchero,Pipe Creek,Bandera,780036,Emergency Call orRequest forAssistance,3/16/2017,9:49 PM,Male,47.0,white,Death,1,Possessed Weapon
+82,Baytown PoliceDepartment,3010 Garth Road,Baytown,Harris,775216,OtherSpecify type of call:Business Alarm - Robbery in progress,4/11/2016,,Male,47.0,black,Injury,3,Possessed Weapon
+83,Baytown PoliceDepartment,6033 Garth Rd.,Baytown,Harris,775216,Emergency Call orRequest forAssistance,1/27/2016,,Male,28.0,black,Injury,1,Possessed Weapon
+84,Baytown PoliceDepartment,1903 MississippiStreet,Baytown,Harris,775206,Emergency Call orRequest forAssistance,10/30/2016,6:47PM,Male,39.0,hispanic,Injury,1,Possessed Weapon
+85,Baytown PoliceDept.,7105 N. SH 146HWY,Baytown,Chambers,775216,Traffic Stop,11/28/2018,11:00AM,Female,24.0,white,Injury,1,Possessed Weapon
+86,Beaumont PoliceDepartment,4020 Dowlen Road,Beamont,Jefferson,777076,Emergency Call orRequest forAssistance,10/14/2016,2:04AM,Male,23.0,white,Death,2,Possessed Weapon
+87,Beaumont PoliceDepartment,655 S. 23rd,Beaumont,Jefferson,777076,Emergency Call orRequest forAssistance,3/5/2016,4:49 PM,Male,22.0,white,Death,1,Possessed Weapon
+88,Bedford PoliceDepartment,3817 Burr OakCourt,Bedford,Tarrant,760216,Emergency Call orRequest forAssistance,6/15/2018,11:56PM,Male,53.0,hispanic,Injury,2,Possessed Weapon
+89,Bedford PoliceDepartment,600 Hurst Drive,Bedford,Tarrant,760216,"OtherSpecify type of call:Self-initiated investigation, suspicious vehicle parked behind business.",1/16/2018,4:35 AM,Male,30.0,hispanic,Death,2,Possessed Weapon
+9,Alvin Police Dept.,2102 W Lang,Alvin,Brazoria,775116,Emergency Call orRequest forAssistance,7/15/2018,4:00 PM,Male,34.0,hispanic,Death,1,Possessed Weapon
+90,Bell County Sheriff'sOffice,12953 FM 2410,Harker Heights,Bell,765486,Traffic Stop,8/30/2016,4:42 PM,Male,59.0,white,Death,1,No Weapon
+91,Bellville PoliceDepartment,3442 ColemanRanch Lane,Bellville,Austin,774186,Emergency Call orRequest forAssistance,6/22/2016,12:04PM,Male,31.0,white,Death,2,Possessed Weapon
+92,Bexar CountyConstable Precinct4,5027 Pecan Grove,San Antonio,Bexar,782226,Emergency Call orRequest forAssistance,9/18/2015,,Male,22.0,black,Injury,3,Possessed Weapon
+93,Bexar CountySheriff's Office,1100 Rockport Rd,San Antonio,Bexar,782646,Traffic Stop,12/5/2018,3:30 PM,Male,39.0,hispanic,Injury,1,No Weapon
+95,Bexar CountySheriff's Office,505 S. Loop 1604 E,Elmendorf,Bexar,782646,Emergency Call orRequest forAssistance,4/1/2018,6:40 AM,Male,34.0,hispanic,Death,1,Possessed Weapon
+96,Bexar CountySheriff's Office,16860 State Hwy211 N,Helotes,Bexar,780236,Emergency Call orRequest forAssistance,5/5/2018,10:29 AM,Male,59.0,white,Death,1,Possessed Weapon
+98,Bexar CountySheriff's Office,1120 W LOOP1604 N,San Antonio,Bexar,782516,"Hostage/Barricade/OtherEmerg SituationSpecify type of call:Suspect evaded in a motor vehicle, fled on foot with a weapon, and fired a weapon at the deputy.",3/1/2019,3:40 PM,Male,35.0,white,Injury,1,Possessed Weapon
+99,Bexar CountySheriff's Office,4200 W Loopo1604 N,San Antonio,Bexar,782536,Emergency Call orRequest for Assistance;Hostage/Barricade/OtherEmerg SituationSpecify type of call:Subject evaded arrest through multiple jurisdictions and was threatening suicide by cop after exiting vehicle.,1/25/2019,10:00PM,Male,38.0,hispanic,Injury,3,Possessed Weapon

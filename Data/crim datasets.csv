@@ -1,0 +1,20 @@
+﻿data_source,topic,description,link
+National Incident Based Reporting System,crime,FBI data on crime across the USA,https://crime-data-explorer.app.cloud.gov/pages/downloads
+Boston Crime Incident Reports,crime,Boston Police Department Data on Crime,https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
+National Crime Victimization Survey,crime,Nationally representative survey about crime victimization,https://www.bjs.gov/developer/ncvs/index.cfm
+Boston Neighborhood Survey,crime,"Survey of Boston residents about crime, social processes",https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SE2CIX
+Bureau of Justice Statistics (policing),policing,US government data related to policing,bjs.ojp.gov/topics/law-enforcement
+Washington Post Fatal Force Database,policing,Database of police fatal force incidents,https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
+Vice News Officer Involved Shooting Database,policing,Database of police involved shootings,vice.com/en/article/a3jjpa/nonfatal-police-shootings-data
+Survey of Prison Inmates,prisons,Survey of incarcerated individuals ,https://bjs.ojp.gov/data-collection/survey-prison-inmates-spi
+National Corrections Reporting System,prisons,Administrative data about incarcerated individuals,https://bjs.ojp.gov/data-collection/national-corrections-reporting-program-ncrp#publications-0
+Annual Survey of Jails,prisons,Data about a sample of jails in the US,https://bjs.ojp.gov/data-collection/annual-survey-jails-asj
+Texas Justice Initiative,prisons,Datasets on people who died while incarcerated,https://texasjusticeinitiative.org/data
+Executive Office for United States Attorney,courts,Data on investigation and prosecution of suspects involving US attorneys,https://www.icpsr.umich.edu/web/pages/NACJD/guides/fjsp.html
+United States Sentencing Commission,courts,Data on cases in U.S. district courts,https://www.icpsr.umich.edu/web/pages/NACJD/guides/fjsp.html
+Bureau of Justice Statistics ,data repo,Government portal for CJ datasets,https://bjs.ojp.gov/data/topic
+Inter-University Consortium for Political and Social Research,data repo,Social science data portal,https://www.icpsr.umich.edu/web/pages/
+Harvard Dataverse,data repo,Social science data portal,dataverse.harvard.edu
+Police Data Initiative,data repo,Portal of crime data from local departments,https://www.policedatainitiative.org/datasets/
+USA Facts ,data repo,Links to various datasets ,https://usafacts.org/data/topics/security-safety/crime-and-justice/
+ProPublica ,data repo,"Private company with some interesting free data. ""PREMIUM"" datasets cost money. ",https://www.propublica.org/datastore/datasets/criminal-justice
